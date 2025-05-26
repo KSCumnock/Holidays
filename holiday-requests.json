@@ -86,5 +86,18 @@
     "reason": "Funeral",
     "status": "approved",
     "submittedDate": "2025-05-26"
+  },
+  {
+    "id": 9,
+    "employeeId": 1,
+    "employeeName": "John Doe",
+    "startDate": "2025-05-27",
+    "endDate": "2025-05-27",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "morning",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-26"
   }
 ]

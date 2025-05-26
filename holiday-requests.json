@@ -64,5 +64,16 @@
     "reason": "Time off thanks",
     "status": "cancelled",
     "submittedDate": "2025-05-26"
+  },
+  {
+    "id": 7,
+    "employeeId": 6,
+    "employeeName": "Sean Kelly",
+    "startDate": "2025-05-27",
+    "endDate": "2025-05-27",
+    "days": 1,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-26"
   }
 ]

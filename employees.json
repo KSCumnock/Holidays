@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1,
@@ -28,6 +27,12 @@
     "id": 5,
     "name": "Mike Brown",
     "totalAllowance": 25,
+    "usedDays": 0
+  },
+  {
+    "id": 6,
+    "name": "Sean Kelly",
+    "totalAllowance": 35,
     "usedDays": 0
   }
 ]

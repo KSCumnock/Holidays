@@ -75,5 +75,16 @@
     "reason": "",
     "status": "rejected",
     "submittedDate": "2025-05-26"
+  },
+  {
+    "id": 8,
+    "employeeId": 2,
+    "employeeName": "Jane Smith",
+    "startDate": "2025-06-18",
+    "endDate": "2025-06-19",
+    "days": 2,
+    "reason": "Funeral",
+    "status": "pending",
+    "submittedDate": "2025-05-26"
   }
 ]

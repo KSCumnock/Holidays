@@ -99,5 +99,18 @@
     "reason": "",
     "status": "approved",
     "submittedDate": "2025-05-26"
+  },
+  {
+    "id": 10,
+    "employeeId": 4,
+    "employeeName": "Sarah Wilson",
+    "startDate": "2025-05-27",
+    "endDate": "2025-05-27",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-27"
   }
 ]

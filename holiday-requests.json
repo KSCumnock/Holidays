@@ -102,5 +102,18 @@
     "reason": "",
     "status": "approved",
     "submittedDate": "2025-05-27"
+  },
+  {
+    "id": 9,
+    "employeeId": 23,
+    "employeeName": "Stephen Armour",
+    "startDate": "2025-10-24",
+    "endDate": "2025-10-24",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-27"
   }
 ]

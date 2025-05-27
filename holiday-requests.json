@@ -63,5 +63,18 @@
     "reason": "",
     "status": "approved",
     "submittedDate": "2025-05-27"
+  },
+  {
+    "id": 6,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2025-05-30",
+    "endDate": "2025-05-30",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-27"
   }
 ]

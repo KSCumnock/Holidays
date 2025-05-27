@@ -148,5 +148,11 @@
     "name": "Gayle Todd",
     "totalAllowance": 30,
     "usedDays": 0
+  },
+  {
+    "id": 26,
+    "name": "Scott Walker",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

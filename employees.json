@@ -142,5 +142,11 @@
     "name": "Sharleen Hamilton",
     "totalAllowance": 30,
     "usedDays": 0
+  },
+  {
+    "id": 25,
+    "name": "Gayle Todd",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

@@ -124,5 +124,11 @@
     "name": "Tommy Samson",
     "totalAllowance": 30,
     "usedDays": 0
+  },
+  {
+    "id": 22,
+    "name": "David Cox",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

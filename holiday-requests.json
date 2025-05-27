@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": 1,
+    "employeeId": 1,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2025-05-30",
+    "endDate": "2025-05-30",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "morning",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-27"
+  }
+]

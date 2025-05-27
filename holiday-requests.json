@@ -24,5 +24,18 @@
     "reason": "",
     "status": "cancelled",
     "submittedDate": "2025-05-27"
+  },
+  {
+    "id": 3,
+    "employeeId": 3,
+    "employeeName": "Karen Kelly",
+    "startDate": "2025-06-09",
+    "endDate": "2025-06-09",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-27"
   }
 ]

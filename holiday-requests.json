@@ -76,5 +76,18 @@
     "reason": "",
     "status": "approved",
     "submittedDate": "2025-05-27"
+  },
+  {
+    "id": 7,
+    "employeeId": 19,
+    "employeeName": "Alex McClelland",
+    "startDate": "2025-06-09",
+    "endDate": "2025-06-13",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-27"
   }
 ]

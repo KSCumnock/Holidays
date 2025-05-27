@@ -130,5 +130,11 @@
     "name": "David Cox",
     "totalAllowance": 30,
     "usedDays": 0
+  },
+  {
+    "id": 23,
+    "name": "Stephen Armour",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

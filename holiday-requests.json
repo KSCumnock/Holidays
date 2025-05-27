@@ -180,5 +180,18 @@
     "reason": "FUNERAL",
     "status": "rejected",
     "submittedDate": "2025-05-27"
+  },
+  {
+    "id": 15,
+    "employeeId": 4,
+    "employeeName": "Martin Wallace",
+    "startDate": "2025-06-16",
+    "endDate": "2025-06-16",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-27"
   }
 ]

@@ -160,5 +160,11 @@
     "name": "Gavin Lorimer",
     "totalAllowance": 30,
     "usedDays": 0
+  },
+  {
+    "id": 29,
+    "name": "Ian Pollock",
+    "totalAllowance": 20,
+    "usedDays": 0
   }
 ]

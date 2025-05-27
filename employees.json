@@ -118,5 +118,11 @@
     "name": "Dario Baldassarra",
     "totalAllowance": 30,
     "usedDays": 0
+  },
+  {
+    "id": 21,
+    "name": "Tommy Samson",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

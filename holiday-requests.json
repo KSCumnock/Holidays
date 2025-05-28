@@ -11,5 +11,18 @@
     "reason": "",
     "status": "pending",
     "submittedDate": "2025-05-28"
+  },
+  {
+    "id": 2,
+    "employeeId": 18,
+    "employeeName": "Tommy McBride",
+    "startDate": "2025-07-01",
+    "endDate": "2025-07-04",
+    "days": 4,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-28"
   }
 ]

@@ -89,5 +89,18 @@
     "reason": "",
     "status": "cancelled",
     "submittedDate": "2025-05-31"
+  },
+  {
+    "id": 8,
+    "employeeId": 6,
+    "employeeName": "Billy Mathieson",
+    "startDate": "2025-06-09",
+    "endDate": "2025-06-13",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-31"
   }
 ]

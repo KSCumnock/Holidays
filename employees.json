@@ -160,5 +160,11 @@
     "name": "Ian Pollock",
     "totalAllowance": 20,
     "usedDays": 0
+  },
+  {
+    "id": 30,
+    "name": "Jordan Frizzell",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

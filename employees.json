@@ -3,19 +3,19 @@
     "id": 1,
     "name": "Aimee Kennedy",
     "totalAllowance": 30,
-    "usedDays": 0.5
+    "usedDays": 0
   },
   {
     "id": 2,
     "name": "Nicola Devlin",
     "totalAllowance": 30,
-    "usedDays": 10
+    "usedDays": 0
   },
   {
     "id": 3,
     "name": "Karen Kelly",
     "totalAllowance": 30,
-    "usedDays": 10
+    "usedDays": 0
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "id": 6,
     "name": "Billy Mathieson",
     "totalAllowance": 30,
-    "usedDays": 15
+    "usedDays": 0
   },
   {
     "id": 7,
@@ -45,19 +45,19 @@
     "id": 9,
     "name": "Scott Graham",
     "totalAllowance": 30,
-    "usedDays": 4
+    "usedDays": 0
   },
   {
     "id": 10,
     "name": "Codie Bottel",
     "totalAllowance": 30,
-    "usedDays": 1
+    "usedDays": 0
   },
   {
     "id": 11,
     "name": "Harrison Hannah",
     "totalAllowance": 30,
-    "usedDays": 1
+    "usedDays": 0
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "id": 18,
     "name": "Tommy McBride",
     "totalAllowance": 30,
-    "usedDays": 10
+    "usedDays": 0
   },
   {
     "id": 19,
@@ -117,13 +117,13 @@
     "id": 22,
     "name": "David Cox",
     "totalAllowance": 30,
-    "usedDays": 2
+    "usedDays": 0
   },
   {
     "id": 23,
     "name": "Stephen Armour",
     "totalAllowance": 30,
-    "usedDays": 18
+    "usedDays": 0
   },
   {
     "id": 24,
@@ -165,12 +165,12 @@
     "id": 30,
     "name": "Jordan Frizzell",
     "totalAllowance": 30,
-    "usedDays": 1
+    "usedDays": 0
   },
   {
     "id": 31,
     "name": "Kyle Wright",
     "totalAllowance": 30,
-    "usedDays": 8
+    "usedDays": 0
   }
 ]

@@ -128,5 +128,20 @@
     "reason": "",
     "status": "approved",
     "submittedDate": "2025-05-31"
+  },
+  {
+    "id": 11,
+    "employeeId": 1,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2025-05-31",
+    "endDate": "2025-05-31",
+    "days": 0,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-31",
+    "requestType": "sick",
+    "deductFromHoliday": true
   }
 ]

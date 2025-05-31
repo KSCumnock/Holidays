@@ -50,5 +50,18 @@
     "reason": "",
     "status": "pending",
     "submittedDate": "2025-05-31"
+  },
+  {
+    "id": 5,
+    "employeeId": 6,
+    "employeeName": "Billy Mathieson",
+    "startDate": "2025-07-28",
+    "endDate": "2025-08-08",
+    "days": 12,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-31"
   }
 ]

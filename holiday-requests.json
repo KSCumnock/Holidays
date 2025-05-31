@@ -85,8 +85,9 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
-    "submittedDate": "2025-05-31"
+    "status": "approved",
+    "submittedDate": "2025-05-31",
+    "approvedDate": "2025-05-31"
   },
   {
     "id": 7,

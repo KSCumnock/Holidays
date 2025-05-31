@@ -58,5 +58,20 @@
     "submittedDate": "2025-05-31",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 5,
+    "employeeId": 9,
+    "employeeName": "Scott Graham",
+    "startDate": "2025-08-21",
+    "endDate": "2025-08-26",
+    "days": 4,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-31",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

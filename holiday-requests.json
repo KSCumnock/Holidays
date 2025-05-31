@@ -102,5 +102,18 @@
     "reason": "",
     "status": "pending",
     "submittedDate": "2025-05-31"
+  },
+  {
+    "id": 9,
+    "employeeId": 30,
+    "employeeName": "Jordan Frizzell",
+    "startDate": "2025-06-12",
+    "endDate": "2025-06-12",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-05-31"
   }
 ]

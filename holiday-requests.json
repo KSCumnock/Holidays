@@ -139,7 +139,7 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2025-05-31",
     "requestType": "sick",
     "deductFromHoliday": true

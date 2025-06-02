@@ -172,5 +172,11 @@
     "name": "Donna McClure",
     "totalAllowance": 30,
     "usedDays": 0
+  },
+  {
+    "id": 36,
+    "name": "Alex McClelland",
+    "totalAllowance": 24,
+    "usedDays": 0
   }
 ]

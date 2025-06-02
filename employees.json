@@ -178,5 +178,11 @@
     "name": "Jamie McGinn",
     "totalAllowance": 25,
     "usedDays": 0
+  },
+  {
+    "id": 34,
+    "name": "Codie Bottell",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

@@ -166,5 +166,10 @@
     "name": "Jordan Frizzell",
     "totalAllowance": 30,
     "usedDays": 0
+  },
+  {
+    "id": 31,
+    "totalAllowance": 25.5,
+    "usedDays": 0
   }
 ]

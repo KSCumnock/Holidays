@@ -407,5 +407,35 @@
     "submittedDate": "2025-06-02",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 32,
+    "employeeId": 32,
+    "employeeName": "Sean Kelly",
+    "startDate": "2025-12-25",
+    "endDate": "2025-12-25",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Added via quick entry",
+    "status": "approved",
+    "submittedDate": "2025-06-02",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 33,
+    "employeeId": 32,
+    "employeeName": "Sean Kelly",
+    "startDate": "2025-12-26",
+    "endDate": "2025-12-26",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Added via quick entry",
+    "status": "approved",
+    "submittedDate": "2025-06-02",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

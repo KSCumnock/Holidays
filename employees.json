@@ -172,5 +172,11 @@
     "name": "Kyle Wright",
     "totalAllowance": 17.5,
     "usedDays": 0
+  },
+  {
+    "id": 32,
+    "name": "Sean Kelly",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

@@ -448,9 +448,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "cancelled",
     "submittedDate": "2025-06-02",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "cancelledDate": "2025-06-02"
   }
 ]

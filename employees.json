@@ -190,5 +190,11 @@
     "name": "Jordon Frizzell",
     "totalAllowance": 27.5,
     "usedDays": 0
+  },
+  {
+    "id": 39,
+    "name": "William Smith",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

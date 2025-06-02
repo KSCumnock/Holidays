@@ -178,5 +178,11 @@
     "name": "Sean Kelly",
     "totalAllowance": 30,
     "usedDays": 0
+  },
+  {
+    "id": 33,
+    "name": "Jamie McGinn",
+    "totalAllowance": 25,
+    "usedDays": 0
   }
 ]

@@ -1004,5 +1004,20 @@
     "submittedDate": "2025-06-04",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 64,
+    "employeeId": 28,
+    "employeeName": "Gavin Lorimer",
+    "startDate": "2025-03-24",
+    "endDate": "2025-03-28",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-04",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

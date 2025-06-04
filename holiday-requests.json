@@ -1374,5 +1374,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-06-04"
+  },
+  {
+    "id": 88,
+    "employeeId": 6,
+    "employeeName": "Billy Mathieson",
+    "startDate": "2025-01-01",
+    "endDate": "2025-01-02",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-04",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

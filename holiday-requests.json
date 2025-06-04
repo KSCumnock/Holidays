@@ -2765,5 +2765,20 @@
     "submittedDate": "2025-06-04",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 175,
+    "employeeId": 35,
+    "employeeName": "Donna McClure",
+    "startDate": "2025-02-21",
+    "endDate": "2025-02-25",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-04",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

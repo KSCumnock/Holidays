@@ -190,5 +190,11 @@
     "name": "Gayle Todd",
     "totalAllowance": 30,
     "usedDays": 19.5
+  },
+  {
+    "id": 42,
+    "name": "Sean Kelly",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

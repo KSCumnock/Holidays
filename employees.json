@@ -190,5 +190,11 @@
     "name": "Stephen Armour",
     "totalAllowance": 30,
     "usedDays": 29
+  },
+  {
+    "id": 46,
+    "name": "Aimee Kennedy",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

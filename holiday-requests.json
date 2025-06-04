@@ -1134,5 +1134,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-06-04"
+  },
+  {
+    "id": 72,
+    "employeeId": 31,
+    "employeeName": "Kyle Wright",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-02",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "morning",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-04",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

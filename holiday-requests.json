@@ -2900,5 +2900,20 @@
     "submittedDate": "2025-06-04",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 184,
+    "employeeId": 41,
+    "employeeName": "Gayle Todd",
+    "startDate": "2025-04-16",
+    "endDate": "2025-04-18",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-04",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

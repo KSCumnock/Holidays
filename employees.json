@@ -3,7 +3,7 @@
     "id": 4,
     "name": "Martin Wallace",
     "totalAllowance": 30,
-    "usedDays": 20
+    "usedDays": 0
   },
   {
     "id": 5,
@@ -15,7 +15,7 @@
     "id": 6,
     "name": "Billy Mathieson",
     "totalAllowance": 30,
-    "usedDays": 15
+    "usedDays": 0
   },
   {
     "id": 7,
@@ -27,7 +27,7 @@
     "id": 9,
     "name": "Scott Graham",
     "totalAllowance": 30,
-    "usedDays": 4
+    "usedDays": 0
   },
   {
     "id": 11,
@@ -39,7 +39,7 @@
     "id": 12,
     "name": "Finlay Campbell",
     "totalAllowance": 30,
-    "usedDays": 2
+    "usedDays": 0
   },
   {
     "id": 13,
@@ -51,7 +51,7 @@
     "id": 15,
     "name": "Steven Guthrie",
     "totalAllowance": 30,
-    "usedDays": 27
+    "usedDays": 0
   },
   {
     "id": 16,
@@ -63,7 +63,7 @@
     "id": 17,
     "name": "Luke McGhee",
     "totalAllowance": 30,
-    "usedDays": 27
+    "usedDays": 0
   },
   {
     "id": 18,
@@ -75,13 +75,13 @@
     "id": 20,
     "name": "Dario Baldassarra",
     "totalAllowance": 30,
-    "usedDays": 6.5
+    "usedDays": 0
   },
   {
     "id": 22,
     "name": "David Cox",
     "totalAllowance": 30,
-    "usedDays": 23
+    "usedDays": 0
   },
   {
     "id": 26,
@@ -123,19 +123,19 @@
     "id": 35,
     "name": "Donna McClure",
     "totalAllowance": 30,
-    "usedDays": 23
+    "usedDays": 0
   },
   {
     "id": 36,
     "name": "Alex McClelland",
     "totalAllowance": 24,
-    "usedDays": 8
+    "usedDays": 0
   },
   {
     "id": 37,
     "name": "Sharleen Hamilton",
     "totalAllowance": 24,
-    "usedDays": 10
+    "usedDays": 0
   },
   {
     "id": 38,
@@ -153,48 +153,48 @@
     "id": 40,
     "name": "Ian Pollock",
     "totalAllowance": 24,
-    "usedDays": 11
+    "usedDays": 0
   },
   {
     "id": 41,
     "name": "Gayle Todd",
     "totalAllowance": 30,
-    "usedDays": 19.5
+    "usedDays": 0
   },
   {
     "id": 42,
     "name": "Sean Kelly",
     "totalAllowance": 30,
-    "usedDays": 22
+    "usedDays": 0
   },
   {
     "id": 43,
     "name": "Karen Kelly",
     "totalAllowance": 30,
-    "usedDays": 26
+    "usedDays": 0
   },
   {
     "id": 44,
     "name": "Nicola Devlin",
     "totalAllowance": 30,
-    "usedDays": 23.5
+    "usedDays": 0
   },
   {
     "id": 45,
     "name": "Stephen Armour",
     "totalAllowance": 30,
-    "usedDays": 29
+    "usedDays": 0
   },
   {
     "id": 46,
     "name": "Aimee Kennedy",
     "totalAllowance": 30,
-    "usedDays": 20.5
+    "usedDays": 0
   },
   {
     "id": 47,
     "name": "Tommy Samson",
     "totalAllowance": 30,
-    "usedDays": 20
+    "usedDays": 0
   }
 ]

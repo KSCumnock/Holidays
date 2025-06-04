@@ -3269,5 +3269,20 @@
     "submittedDate": "2025-06-04",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 207,
+    "employeeId": 15,
+    "employeeName": "Steven Guthrie",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-01",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-04",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

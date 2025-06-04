@@ -1223,10 +1223,11 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Added via quick entry",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2025-06-04",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "cancelledDate": "2025-06-04"
   },
   {
     "id": 91,

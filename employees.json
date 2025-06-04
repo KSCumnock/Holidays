@@ -190,5 +190,11 @@
     "name": "Ian Pollock",
     "totalAllowance": 24,
     "usedDays": 11
+  },
+  {
+    "id": 41,
+    "name": "Gayle Todd",
+    "totalAllowance": 30,
+    "usedDays": 0
   }
 ]

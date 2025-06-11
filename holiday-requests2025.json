@@ -3583,21 +3583,5 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-06-11"
-  },
-  {
-    "id": 226,
-    "employeeId": 11,
-    "employeeName": "Harrison Hannah",
-    "startDate": "2025-06-10",
-    "endDate": "2025-06-13",
-    "days": 4,
-    "isHalfDay": false,
-    "halfDayPeriod": null,
-    "reason": "College",
-    "status": "rejected",
-    "submittedDate": "2025-06-11",
-    "requestType": "training",
-    "deductFromHoliday": false,
-    "rejectedDate": "2025-06-11"
   }
 ]

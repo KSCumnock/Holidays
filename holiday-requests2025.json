@@ -3591,9 +3591,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "College",
-    "status": "pending",
+    "status": "rejected",
     "submittedDate": "2025-06-11",
     "requestType": "training",
-    "deductFromHoliday": false
+    "deductFromHoliday": false,
+    "rejectedDate": "2025-06-11"
   }
 ]

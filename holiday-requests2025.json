@@ -3626,9 +3626,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Was supposed to be at college but was at the hospital last night and had his nose cauterised because it kept bleeding. Will be back in to work tomorrow.",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-06-13",
     "requestType": "sick",
-    "deductFromHoliday": false
+    "deductFromHoliday": false,
+    "approvedDate": "2025-06-13"
   }
 ]

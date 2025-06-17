@@ -3972,5 +3972,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-06-17"
+  },
+  {
+    "id": 250,
+    "employeeId": 16,
+    "employeeName": "Stuart Little",
+    "startDate": "2025-07-21",
+    "endDate": "2025-07-21",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-17",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

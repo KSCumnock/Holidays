@@ -3799,5 +3799,50 @@
     "submittedDate": "2025-06-17",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 240,
+    "employeeId": 38,
+    "employeeName": "Jordon Frizzell",
+    "startDate": "2025-07-10",
+    "endDate": "2025-07-10",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-17",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 241,
+    "employeeId": 38,
+    "employeeName": "Jordon Frizzell",
+    "startDate": "2025-07-10",
+    "endDate": "2025-07-10",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-17",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 242,
+    "employeeId": 38,
+    "employeeName": "Jordon Frizzell",
+    "startDate": "2025-07-15",
+    "endDate": "2025-07-15",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-17",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

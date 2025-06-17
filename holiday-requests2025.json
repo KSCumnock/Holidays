@@ -3802,11 +3802,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2025-06-17",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2025-06-17"
+    "approvedDate": "2025-06-17",
+    "cancelledDate": "2025-06-17"
   },
   {
     "id": 240,

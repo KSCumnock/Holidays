@@ -4098,5 +4098,20 @@
     "submittedDate": "2025-06-19",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 258,
+    "employeeId": 47,
+    "employeeName": "Tommy Samson",
+    "startDate": "2025-06-24",
+    "endDate": "0025-06-24",
+    "days": 0,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-19",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

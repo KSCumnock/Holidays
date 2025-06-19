@@ -4111,9 +4111,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "rejected",
     "submittedDate": "2025-06-19",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "rejectedDate": "2025-06-19"
   }
 ]

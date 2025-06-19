@@ -4133,5 +4133,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-06-19"
+  },
+  {
+    "id": 260,
+    "employeeId": 18,
+    "employeeName": "Tommy McBride",
+    "startDate": "2025-05-26",
+    "endDate": "2025-05-26",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-19",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

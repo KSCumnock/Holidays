@@ -4149,5 +4149,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-06-19"
+  },
+  {
+    "id": 261,
+    "employeeId": 20,
+    "employeeName": "Dario Baldassarra",
+    "startDate": "2025-06-20",
+    "endDate": "2025-06-20",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-20",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

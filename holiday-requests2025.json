@@ -4165,5 +4165,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-06-20"
+  },
+  {
+    "id": 262,
+    "employeeId": 13,
+    "employeeName": "Alan Leckie",
+    "startDate": "2025-06-27",
+    "endDate": "2025-06-27",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "Doctors appointment",
+    "status": "pending",
+    "submittedDate": "2025-06-25",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

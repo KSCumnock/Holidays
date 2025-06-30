@@ -4197,5 +4197,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-06-26"
+  },
+  {
+    "id": 264,
+    "employeeId": 12,
+    "employeeName": "Finlay Campbell",
+    "startDate": "2025-06-30",
+    "endDate": "2025-06-30",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-06-30",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

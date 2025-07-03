@@ -4323,5 +4323,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "cancelledDate": "2025-07-03"
+  },
+  {
+    "id": 272,
+    "employeeId": 4,
+    "employeeName": "Martin Wallace",
+    "startDate": "2025-09-15",
+    "endDate": "2025-09-19",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-07-03",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

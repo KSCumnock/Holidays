@@ -4386,5 +4386,20 @@
     "submittedDate": "2025-07-08",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 276,
+    "employeeId": 34,
+    "employeeName": "Codie Bottell",
+    "startDate": "2025-07-16",
+    "endDate": "2025-07-16",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-07-08",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

@@ -4428,9 +4428,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Went home at 11am still not feeling well",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-07-09",
     "requestType": "sick",
-    "deductFromHoliday": false
+    "deductFromHoliday": false,
+    "approvedDate": "2025-07-09"
   }
 ]

@@ -4434,5 +4434,20 @@
     "requestType": "sick",
     "deductFromHoliday": false,
     "approvedDate": "2025-07-09"
+  },
+  {
+    "id": 279,
+    "employeeId": 31,
+    "employeeName": "Kyle Wright",
+    "startDate": "2025-07-10",
+    "endDate": "2025-07-10",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-07-10",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

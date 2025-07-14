@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1,
+    "employeeId": 37,
+    "employeeName": "Sharleen Hamilton",
+    "startDate": "2025-07-17",
+    "endDate": "2025-07-17",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-07-14",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  }
+]

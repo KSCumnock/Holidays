@@ -4565,5 +4565,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-07-17"
+  },
+  {
+    "id": 287,
+    "employeeId": 5,
+    "employeeName": "George Wilson",
+    "startDate": "2025-11-17",
+    "endDate": "2025-11-17",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-07-18",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

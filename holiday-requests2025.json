@@ -4607,9 +4607,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-07-21",
     "requestType": "sick",
-    "deductFromHoliday": false
+    "deductFromHoliday": false,
+    "approvedDate": "2025-07-21"
   }
 ]

@@ -4721,11 +4721,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2025-07-29",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2025-07-29"
+    "approvedDate": "2025-07-29",
+    "cancelledDate": "2025-07-29"
   },
   {
     "id": 297,

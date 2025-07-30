@@ -4760,5 +4760,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-07-29"
+  },
+  {
+    "id": 299,
+    "employeeId": 37,
+    "employeeName": "Sharleen Hamilton",
+    "startDate": "2025-08-28",
+    "endDate": "2025-08-28",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-07-30",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

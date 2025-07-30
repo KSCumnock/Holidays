@@ -4808,5 +4808,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-07-30"
+  },
+  {
+    "id": 302,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2025-08-06",
+    "endDate": "2025-08-06",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "Dentist",
+    "status": "pending",
+    "submittedDate": "2025-07-30",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

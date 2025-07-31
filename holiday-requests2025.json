@@ -4823,5 +4823,20 @@
     "submittedDate": "2025-07-30",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 303,
+    "employeeId": 46,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2025-09-12",
+    "endDate": "2025-09-12",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-07-31",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

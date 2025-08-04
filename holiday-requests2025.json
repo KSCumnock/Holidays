@@ -4839,5 +4839,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-07-31"
+  },
+  {
+    "id": 304,
+    "employeeId": 43,
+    "employeeName": "Karen Kelly",
+    "startDate": "2025-11-28",
+    "endDate": "2025-11-28",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-08-04",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

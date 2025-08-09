@@ -4949,10 +4949,11 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-08-09",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2025-08-09"
   },
   {
     "id": 311,

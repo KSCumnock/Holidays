@@ -5048,5 +5048,20 @@
     "submittedDate": "2025-08-11",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 317,
+    "employeeId": 35,
+    "employeeName": "Donna McClure",
+    "startDate": "2025-08-15",
+    "endDate": "2025-08-15",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-08-11",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

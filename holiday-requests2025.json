@@ -4970,5 +4970,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-08-09"
+  },
+  {
+    "id": 312,
+    "employeeId": 38,
+    "employeeName": "Jordon Frizzell",
+    "startDate": "2025-09-12",
+    "endDate": "2025-09-12",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-08-11",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

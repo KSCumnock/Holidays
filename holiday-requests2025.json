@@ -5098,5 +5098,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-08-12"
+  },
+  {
+    "id": 320,
+    "employeeId": 33,
+    "employeeName": "Jamie McGinn",
+    "startDate": "2025-09-19",
+    "endDate": "2025-09-19",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-08-13",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

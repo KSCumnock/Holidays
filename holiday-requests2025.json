@@ -5295,5 +5295,20 @@
     "selectedDates": [
       "2025-12-19"
     ]
+  },
+  {
+    "id": 331,
+    "employeeId": 17,
+    "employeeName": "Luke McGhee",
+    "startDate": "2025-08-13",
+    "endDate": "2025-08-13",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "morning",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-08-20",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

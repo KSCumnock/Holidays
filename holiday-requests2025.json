@@ -4903,11 +4903,12 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2025-08-06",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2025-08-06"
+    "approvedDate": "2025-08-06",
+    "cancelledDate": "2025-08-28"
   },
   {
     "id": 308,

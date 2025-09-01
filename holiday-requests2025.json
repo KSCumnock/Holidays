@@ -5500,9 +5500,10 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-09-01",
     "requestType": "sick",
-    "deductFromHoliday": false
+    "deductFromHoliday": false,
+    "approvedDate": "2025-09-01"
   }
 ]

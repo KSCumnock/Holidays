@@ -16,7 +16,7 @@
   {
     "id": 36,
     "name": "Alex McClelland",
-    "totalAllowance": 24,
+    "totalAllowance": 16,
     "usedDays": 0,
     "includeSaturdayDeduction": false
   },
@@ -77,13 +77,6 @@
     "includeSaturdayDeduction": false
   },
   {
-    "id": 28,
-    "name": "Gavin Lorimer",
-    "totalAllowance": 30,
-    "usedDays": 0,
-    "includeSaturdayDeduction": false
-  },
-  {
     "id": 41,
     "name": "Gayle Todd",
     "totalAllowance": 30,
@@ -115,13 +108,6 @@
     "id": 33,
     "name": "Jamie McGinn",
     "totalAllowance": 25,
-    "usedDays": 0,
-    "includeSaturdayDeduction": false
-  },
-  {
-    "id": 38,
-    "name": "Jordon Frizzell",
-    "totalAllowance": 27.5,
     "usedDays": 0,
     "includeSaturdayDeduction": false
   },

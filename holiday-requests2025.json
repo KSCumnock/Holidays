@@ -5522,5 +5522,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-09-04"
+  },
+  {
+    "id": 345,
+    "employeeId": 4,
+    "employeeName": "Martin Wallace",
+    "startDate": "2025-11-24",
+    "endDate": "2025-11-28",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Requires 24/11 until 5/12 - doesn't have enough days for me to put through all dates- Martin\nHas spoke to Sean/Donna",
+    "status": "pending",
+    "submittedDate": "2025-09-04",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

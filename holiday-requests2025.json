@@ -5599,5 +5599,20 @@
     "submittedDate": "2025-09-08",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 350,
+    "employeeId": 48,
+    "employeeName": "Colin Mitchell",
+    "startDate": "2025-09-19",
+    "endDate": "2025-09-19",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-09-08",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

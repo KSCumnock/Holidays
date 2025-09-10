@@ -5564,11 +5564,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2025-09-08",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2025-09-08"
+    "approvedDate": "2025-09-08",
+    "cancelledDate": "2025-09-10"
   },
   {
     "id": 348,

@@ -5764,5 +5764,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-09-16"
+  },
+  {
+    "id": 360,
+    "employeeId": 5,
+    "employeeName": "George Wilson",
+    "startDate": "2025-09-16",
+    "endDate": "2025-09-16",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "WENT HOME SICK AT 9AM",
+    "status": "pending",
+    "submittedDate": "2025-09-16",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

@@ -5845,5 +5845,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-09-18"
+  },
+  {
+    "id": 365,
+    "employeeId": 47,
+    "employeeName": "Tommy Samson",
+    "startDate": "2025-10-16",
+    "endDate": "2025-10-21",
+    "days": 4,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-09-22",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

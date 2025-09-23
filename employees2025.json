@@ -133,13 +133,6 @@
     "includeSaturdayDeduction": false
   },
   {
-    "id": 31,
-    "name": "Kyle Wright",
-    "totalAllowance": 17.5,
-    "usedDays": 13.5,
-    "includeSaturdayDeduction": false
-  },
-  {
     "id": 17,
     "name": "Luke McGhee",
     "totalAllowance": 30,

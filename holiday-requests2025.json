@@ -5860,5 +5860,20 @@
     "submittedDate": "2025-09-22",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 366,
+    "employeeId": 18,
+    "employeeName": "Tommy McBride",
+    "startDate": "2025-09-23",
+    "endDate": "2025-09-23",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-09-23",
+    "requestType": "sick",
+    "deductFromHoliday": true
   }
 ]

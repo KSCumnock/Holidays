@@ -5872,10 +5872,11 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-09-23",
     "requestType": "sick",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2025-09-23"
   },
   {
     "id": 367,

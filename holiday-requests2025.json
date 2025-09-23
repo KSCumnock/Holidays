@@ -5875,5 +5875,20 @@
     "submittedDate": "2025-09-23",
     "requestType": "sick",
     "deductFromHoliday": true
+  },
+  {
+    "id": 367,
+    "employeeId": 22,
+    "employeeName": "David Cox",
+    "startDate": "2025-09-26",
+    "endDate": "2025-09-26",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-09-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

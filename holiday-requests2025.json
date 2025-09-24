@@ -5791,9 +5791,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "rejected",
     "submittedDate": "2025-09-24",
     "requestType": "sick",
-    "deductFromHoliday": false
+    "deductFromHoliday": false,
+    "rejectedDate": "2025-09-24"
   }
 ]

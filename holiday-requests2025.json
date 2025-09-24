@@ -5797,5 +5797,20 @@
     "deductFromHoliday": false,
     "rejectedDate": "2025-09-24",
     "cancelledDate": "2025-09-24"
+  },
+  {
+    "id": 370,
+    "employeeId": 18,
+    "employeeName": "Tommy McBride",
+    "startDate": "2025-09-24",
+    "endDate": "2025-09-26",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-09-24",
+    "requestType": "sick",
+    "deductFromHoliday": true
   }
 ]

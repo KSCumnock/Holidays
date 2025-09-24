@@ -5791,10 +5791,11 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "rejected",
+    "status": "cancelled",
     "submittedDate": "2025-09-24",
     "requestType": "sick",
     "deductFromHoliday": false,
-    "rejectedDate": "2025-09-24"
+    "rejectedDate": "2025-09-24",
+    "cancelledDate": "2025-09-24"
   }
 ]

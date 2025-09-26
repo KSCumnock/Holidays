@@ -4597,14 +4597,15 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-08-19",
     "requestType": "holiday",
     "deductFromHoliday": true,
     "isBlockBooking": true,
     "selectedDates": [
       "2025-10-06"
-    ]
+    ],
+    "approvedDate": "2025-09-26"
   },
   {
     "id": 325,

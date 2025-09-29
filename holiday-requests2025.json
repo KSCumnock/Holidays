@@ -5547,5 +5547,20 @@
     "submittedDate": "2025-09-29",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 383,
+    "employeeId": 44,
+    "employeeName": "Nicola Devlin",
+    "startDate": "2025-10-03",
+    "endDate": "2025-10-03",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-09-29",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

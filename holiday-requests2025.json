@@ -5502,5 +5502,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-09-26"
+  },
+  {
+    "id": 380,
+    "employeeId": 26,
+    "employeeName": "Scott Walker",
+    "startDate": "2025-09-29",
+    "endDate": "2025-09-29",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-09-29",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

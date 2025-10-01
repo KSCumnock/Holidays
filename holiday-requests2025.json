@@ -5607,9 +5607,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "cancelled",
     "submittedDate": "2025-10-01",
     "requestType": "sick",
-    "deductFromHoliday": false
+    "deductFromHoliday": false,
+    "cancelledDate": "2025-10-01"
   }
 ]

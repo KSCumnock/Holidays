@@ -5612,5 +5612,20 @@
     "requestType": "sick",
     "deductFromHoliday": false,
     "cancelledDate": "2025-10-01"
+  },
+  {
+    "id": 387,
+    "employeeId": 46,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-01",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-01",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

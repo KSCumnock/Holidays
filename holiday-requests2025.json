@@ -5628,5 +5628,20 @@
     "requestType": "sick",
     "deductFromHoliday": false,
     "approvedDate": "2025-10-01"
+  },
+  {
+    "id": 388,
+    "employeeId": 46,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2025-10-02",
+    "endDate": "2025-10-02",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-02",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

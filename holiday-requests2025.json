@@ -5662,5 +5662,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-10-06"
+  },
+  {
+    "id": 390,
+    "employeeId": 39,
+    "employeeName": "William Smith",
+    "startDate": "2025-10-13",
+    "endDate": "2025-10-13",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "***THIS IS A TEST***",
+    "status": "pending",
+    "submittedDate": "2025-10-06",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

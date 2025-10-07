@@ -5689,9 +5689,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "No child minder",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-10-07",
     "requestType": "sick",
-    "deductFromHoliday": false
+    "deductFromHoliday": false,
+    "approvedDate": "2025-10-07"
   }
 ]

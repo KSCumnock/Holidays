@@ -5720,9 +5720,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Holiday was cancelled and then taken ",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-10-09",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2025-10-09"
   }
 ]

@@ -5709,5 +5709,20 @@
     "submittedDate": "2025-10-08",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 393,
+    "employeeId": 34,
+    "employeeName": "Codie Bottell",
+    "startDate": "2025-10-03",
+    "endDate": "2025-10-03",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Holiday was cancelled and then taken ",
+    "status": "pending",
+    "submittedDate": "2025-10-09",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

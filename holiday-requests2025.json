@@ -5786,5 +5786,20 @@
     "submittedDate": "2025-10-10",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 398,
+    "employeeId": 37,
+    "employeeName": "Sharleen Hamilton",
+    "startDate": "2025-10-20",
+    "endDate": "2025-10-20",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-13",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

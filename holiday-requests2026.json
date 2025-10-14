@@ -41,11 +41,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2025-08-06",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2025-08-06"
+    "approvedDate": "2025-08-06",
+    "cancelledDate": "2025-10-14"
   },
   {
     "id": 4,

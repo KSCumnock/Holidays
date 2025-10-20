@@ -5895,5 +5895,26 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "cancelledDate": "2025-10-20"
+  },
+  {
+    "id": 405,
+    "employeeId": 6,
+    "employeeName": "Billy Mathieson",
+    "startDate": "2025-10-20",
+    "endDate": "2025-10-22",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Billy's father in law died and he needs a few days to get things organised.",
+    "status": "pending",
+    "submittedDate": "2025-10-20",
+    "requestType": "bereavement",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-10-20",
+      "2025-10-21",
+      "2025-10-22"
+    ]
   }
 ]

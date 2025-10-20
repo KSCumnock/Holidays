@@ -5786,10 +5786,11 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-10-10",
     "requestType": "sick",
-    "deductFromHoliday": false
+    "deductFromHoliday": false,
+    "approvedDate": "2025-10-20"
   },
   {
     "id": 398,

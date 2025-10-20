@@ -5914,7 +5914,7 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Billy's father in law died and he needs a few days to get things organised.",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-10-20",
     "requestType": "bereavement",
     "deductFromHoliday": true,
@@ -5923,6 +5923,7 @@
       "2025-10-20",
       "2025-10-21",
       "2025-10-22"
-    ]
+    ],
+    "approvedDate": "2025-10-20"
   }
 ]

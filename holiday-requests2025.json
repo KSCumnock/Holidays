@@ -5941,5 +5941,20 @@
     "requestType": "sick",
     "deductFromHoliday": false,
     "approvedDate": "2025-10-20"
+  },
+  {
+    "id": 407,
+    "employeeId": 41,
+    "employeeName": "Gayle Todd",
+    "startDate": "2025-10-21",
+    "endDate": "2025-10-21",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-21",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

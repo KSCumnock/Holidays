@@ -5972,5 +5972,129 @@
     "submittedDate": "2025-10-21",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 409,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2025-10-22",
+    "endDate": "2025-10-22",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-21",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-10-22"
+    ]
+  },
+  {
+    "id": 410,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2025-11-04",
+    "endDate": "2025-11-06",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-21",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-11-04",
+      "2025-11-05",
+      "2025-11-06"
+    ]
+  },
+  {
+    "id": 411,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2025-11-11",
+    "endDate": "2025-11-13",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-21",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-11-11",
+      "2025-11-12",
+      "2025-11-13"
+    ]
+  },
+  {
+    "id": 412,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2025-12-02",
+    "endDate": "2025-12-04",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-21",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-12-02",
+      "2025-12-03",
+      "2025-12-04"
+    ]
+  },
+  {
+    "id": 413,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2025-12-09",
+    "endDate": "2025-12-11",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-21",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-12-09",
+      "2025-12-10",
+      "2025-12-11"
+    ]
+  },
+  {
+    "id": 414,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2025-12-16",
+    "endDate": "2025-12-18",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-21",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-12-16",
+      "2025-12-17",
+      "2025-12-18"
+    ]
   }
 ]

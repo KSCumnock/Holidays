@@ -203,5 +203,20 @@
     "submittedDate": "2025-10-21",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 14,
+    "employeeId": 43,
+    "employeeName": "Karen Kelly",
+    "startDate": "2026-04-06",
+    "endDate": "2026-04-06",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-21",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

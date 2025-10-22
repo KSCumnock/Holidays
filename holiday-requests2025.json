@@ -6150,5 +6150,48 @@
     "requestType": "sick",
     "deductFromHoliday": false,
     "approvedDate": "2025-10-22"
+  },
+  {
+    "id": 418,
+    "employeeId": 20,
+    "employeeName": "Dario Baldassarra",
+    "startDate": "2025-10-29",
+    "endDate": "2025-10-31",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-22",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ]
+  },
+  {
+    "id": 419,
+    "employeeId": 20,
+    "employeeName": "Dario Baldassarra",
+    "startDate": "2025-11-25",
+    "endDate": "2025-11-28",
+    "days": 4,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-22",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-11-25",
+      "2025-11-26",
+      "2025-11-27",
+      "2025-11-28"
+    ]
   }
 ]

@@ -6197,5 +6197,28 @@
       "2025-11-28"
     ],
     "approvedDate": "2025-10-22"
+  },
+  {
+    "id": 420,
+    "employeeId": 9,
+    "employeeName": "Scott Graham",
+    "startDate": "2025-11-10",
+    "endDate": "2025-11-14",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Cancelled 3rd Nov - 7th. Now only taking 10th to the 14th.",
+    "status": "pending",
+    "submittedDate": "2025-10-27",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-11-10",
+      "2025-11-11",
+      "2025-11-12",
+      "2025-11-13",
+      "2025-11-14"
+    ]
   }
 ]

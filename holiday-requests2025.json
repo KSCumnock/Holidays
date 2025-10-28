@@ -6221,5 +6221,20 @@
       "2025-11-14"
     ],
     "approvedDate": "2025-10-27"
+  },
+  {
+    "id": 421,
+    "employeeId": 5,
+    "employeeName": "George Wilson",
+    "startDate": "2025-11-14",
+    "endDate": "2025-11-14",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "Taking wife to hospital",
+    "status": "pending",
+    "submittedDate": "2025-10-28",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

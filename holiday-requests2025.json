@@ -6252,5 +6252,20 @@
     "submittedDate": "2025-10-29",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 423,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2025-10-30",
+    "endDate": "2025-10-30",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-29",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

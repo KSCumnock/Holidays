@@ -6280,9 +6280,10 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-10-30",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2025-10-30"
   }
 ]

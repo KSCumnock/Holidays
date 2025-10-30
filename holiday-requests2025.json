@@ -6397,5 +6397,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-10-30"
+  },
+  {
+    "id": 432,
+    "employeeId": 40,
+    "employeeName": "Ian Pollock",
+    "startDate": "2025-12-08",
+    "endDate": "2025-12-11",
+    "days": 4,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Holiday",
+    "status": "pending",
+    "submittedDate": "2025-10-30",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

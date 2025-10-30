@@ -6315,5 +6315,20 @@
     "submittedDate": "2025-10-30",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 427,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-01",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-10-30",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

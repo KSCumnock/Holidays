@@ -157,7 +157,7 @@
     "id": 42,
     "name": "Sean Kelly",
     "totalAllowance": 30,
-    "usedDays": 25,
+    "usedDays": 25.5,
     "includeSaturdayDeduction": false
   },
   {

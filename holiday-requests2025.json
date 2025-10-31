@@ -6472,11 +6472,12 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2025-10-31",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2025-10-31"
+    "approvedDate": "2025-10-31",
+    "cancelledDate": "2025-10-31"
   },
   {
     "id": 437,

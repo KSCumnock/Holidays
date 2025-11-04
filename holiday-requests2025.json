@@ -6591,5 +6591,20 @@
     "requestType": "sick",
     "deductFromHoliday": false,
     "approvedDate": "2025-11-04"
+  },
+  {
+    "id": 444,
+    "employeeId": 42,
+    "employeeName": "Sean Kelly",
+    "startDate": "2025-11-04",
+    "endDate": "2025-11-04",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2025-11-04",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

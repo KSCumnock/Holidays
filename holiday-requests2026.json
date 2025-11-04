@@ -343,5 +343,20 @@
       "2026-06-18"
     ],
     "approvedDate": "2025-10-31"
+  },
+  {
+    "id": 22,
+    "employeeId": 16,
+    "employeeName": "Stuart Little",
+    "startDate": "2026-06-18",
+    "endDate": "2026-06-22",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-11-04",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

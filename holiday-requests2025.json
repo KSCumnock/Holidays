@@ -6654,5 +6654,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "cancelledDate": "2025-11-05"
+  },
+  {
+    "id": 448,
+    "employeeId": 44,
+    "employeeName": "Nicola Devlin",
+    "startDate": "2025-11-14",
+    "endDate": "2025-11-14",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-11-05",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

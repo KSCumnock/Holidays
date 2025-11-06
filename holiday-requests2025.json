@@ -6684,5 +6684,20 @@
     "submittedDate": "2025-11-06",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 450,
+    "employeeId": 44,
+    "employeeName": "Nicola Devlin",
+    "startDate": "2025-11-20",
+    "endDate": "2025-11-20",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-11-06",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

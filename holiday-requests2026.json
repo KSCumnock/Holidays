@@ -390,5 +390,20 @@
     "submittedDate": "2025-11-08",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 25,
+    "employeeId": 4,
+    "employeeName": "Martin Wallace",
+    "startDate": "2026-01-19",
+    "endDate": "2026-01-23",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Holiday",
+    "status": "pending",
+    "submittedDate": "2025-11-13",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

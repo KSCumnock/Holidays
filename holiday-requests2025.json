@@ -6844,5 +6844,20 @@
     "submittedDate": "2025-11-17",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 460,
+    "employeeId": 43,
+    "employeeName": "Karen Kelly",
+    "startDate": "2025-11-26",
+    "endDate": "2025-11-26",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-11-17",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

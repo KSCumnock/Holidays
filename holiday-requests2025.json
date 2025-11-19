@@ -6891,5 +6891,20 @@
     "submittedDate": "2025-11-18",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 463,
+    "employeeId": 48,
+    "employeeName": "Colin Mitchell",
+    "startDate": "2025-11-19",
+    "endDate": "2025-11-19",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Dad in hospital.",
+    "status": "approved",
+    "submittedDate": "2025-11-19",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

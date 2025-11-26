@@ -7012,5 +7012,20 @@
     "submittedDate": "2025-11-25",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 471,
+    "employeeId": 9,
+    "employeeName": "Scott Graham",
+    "startDate": "2025-11-26",
+    "endDate": "2025-11-26",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "sick day from holiday allowance",
+    "status": "pending",
+    "submittedDate": "2025-11-26",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

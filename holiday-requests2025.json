@@ -7230,5 +7230,20 @@
     "submittedDate": "2025-12-02",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 484,
+    "employeeId": 45,
+    "employeeName": "Stephen Armour",
+    "startDate": "2025-12-02",
+    "endDate": "2025-12-02",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2025-12-02",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

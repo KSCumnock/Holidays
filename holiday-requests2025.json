@@ -7349,10 +7349,11 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2025-12-05",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2025-12-05"
   },
   {
     "id": 492,

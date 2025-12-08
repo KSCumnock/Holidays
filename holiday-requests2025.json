@@ -7415,5 +7415,43 @@
       "2025-12-30"
     ],
     "approvedDate": "2025-12-08"
+  },
+  {
+    "id": 495,
+    "employeeId": 16,
+    "employeeName": "Stuart Little",
+    "startDate": "2025-12-24",
+    "endDate": "2025-12-24",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-12-08",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-12-24"
+    ]
+  },
+  {
+    "id": 496,
+    "employeeId": 16,
+    "employeeName": "Stuart Little",
+    "startDate": "2025-12-31",
+    "endDate": "2025-12-31",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-12-08",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2025-12-31"
+    ]
   }
 ]

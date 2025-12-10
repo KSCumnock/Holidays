@@ -518,5 +518,20 @@
     "submittedDate": "2025-12-09",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 33,
+    "employeeId": 37,
+    "employeeName": "Sharleen Hamilton",
+    "startDate": "2026-04-16",
+    "endDate": "2026-04-16",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-12-10",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

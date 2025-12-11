@@ -7486,5 +7486,20 @@
     "submittedDate": "2025-12-11",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 499,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2025-12-11",
+    "endDate": "2025-12-11",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2025-12-11",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

@@ -550,5 +550,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2025-12-10"
+  },
+  {
+    "id": 35,
+    "employeeId": 7,
+    "employeeName": "Chris Smith",
+    "startDate": "2026-01-26",
+    "endDate": "2026-01-29",
+    "days": 4,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2025-12-12",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

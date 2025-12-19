@@ -7594,5 +7594,20 @@
     "submittedDate": "2025-12-19",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 506,
+    "employeeId": 27,
+    "employeeName": "David Young",
+    "startDate": "2025-12-19",
+    "endDate": "2025-12-19",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2025-12-19",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

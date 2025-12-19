@@ -7579,5 +7579,20 @@
     "submittedDate": "2025-12-19",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 505,
+    "employeeId": 33,
+    "employeeName": "Jamie McGinn",
+    "startDate": "2025-12-19",
+    "endDate": "2025-12-19",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2025-12-19",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

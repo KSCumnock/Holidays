@@ -7609,5 +7609,20 @@
     "submittedDate": "2025-12-19",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 507,
+    "employeeId": 48,
+    "employeeName": "Colin Mitchell",
+    "startDate": "2025-12-29",
+    "endDate": "2025-12-29",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2025-12-29",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

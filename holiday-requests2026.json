@@ -1126,5 +1126,20 @@
     "submittedDate": "2026-01-07",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 72,
+    "employeeId": 42,
+    "employeeName": "Sean Kelly",
+    "startDate": "2026-01-01",
+    "endDate": "2026-01-02",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-01-07",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

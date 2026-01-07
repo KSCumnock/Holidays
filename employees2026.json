@@ -84,13 +84,6 @@
     "includeSaturdayDeduction": false
   },
   {
-    "id": 5,
-    "name": "George Wilson",
-    "totalAllowance": 30,
-    "usedDays": 0,
-    "includeSaturdayDeduction": false
-  },
-  {
     "id": 11,
     "name": "Harrison Hannah",
     "totalAllowance": 30,

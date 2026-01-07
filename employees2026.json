@@ -16,7 +16,7 @@
   {
     "id": 36,
     "name": "Alex McClelland",
-    "totalAllowance": 16,
+    "totalAllowance": 18,
     "usedDays": 1,
     "includeSaturdayDeduction": false
   },
@@ -100,7 +100,7 @@
   {
     "id": 33,
     "name": "Jamie McGinn",
-    "totalAllowance": 25,
+    "totalAllowance": 30,
     "usedDays": 5,
     "includeSaturdayDeduction": false
   },

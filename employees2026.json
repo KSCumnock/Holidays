@@ -31,7 +31,7 @@
     "id": 7,
     "name": "Chris Smith",
     "totalAllowance": 30,
-    "usedDays": 0,
+    "usedDays": 2,
     "includeSaturdayDeduction": false
   },
   {

@@ -2,7 +2,7 @@
   {
     "id": 46,
     "name": "Aimee Kennedy",
-    "totalAllowance": 31,
+    "totalAllowance": 30,
     "usedDays": 4,
     "includeSaturdayDeduction": false
   },
@@ -107,15 +107,8 @@
   {
     "id": 43,
     "name": "Karen Kelly",
-    "totalAllowance": 31,
+    "totalAllowance": 30,
     "usedDays": 14,
-    "includeSaturdayDeduction": false
-  },
-  {
-    "id": 31,
-    "name": "Kyle Wright",
-    "totalAllowance": 17.5,
-    "usedDays": 0,
     "includeSaturdayDeduction": false
   },
   {

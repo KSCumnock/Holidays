@@ -841,5 +841,20 @@
     "submittedDate": "2026-01-07",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 53,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2026-01-01",
+    "endDate": "2026-01-01",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-01-07",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

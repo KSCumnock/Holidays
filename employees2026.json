@@ -208,5 +208,12 @@
     "totalAllowance": 30,
     "usedDays": 2,
     "includeSaturdayDeduction": false
+  },
+  {
+    "id": 48,
+    "name": "Colin Mitchell",
+    "totalAllowance": 30,
+    "usedDays": 0,
+    "includeSaturdayDeduction": false
   }
 ]

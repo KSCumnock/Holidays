@@ -215,5 +215,12 @@
     "totalAllowance": 30,
     "usedDays": 0,
     "includeSaturdayDeduction": false
+  },
+  {
+    "id": 49,
+    "name": "Guy Flannagan",
+    "totalAllowance": 30,
+    "usedDays": 0,
+    "includeSaturdayDeduction": false
   }
 ]

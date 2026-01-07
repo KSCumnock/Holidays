@@ -213,7 +213,7 @@
     "id": 39,
     "name": "William Smith",
     "totalAllowance": 30,
-    "usedDays": 0,
+    "usedDays": 2,
     "includeSaturdayDeduction": false
   }
 ]

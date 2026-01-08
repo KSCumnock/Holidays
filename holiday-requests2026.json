@@ -1938,5 +1938,20 @@
       "2026-02-11",
       "2026-02-12"
     ]
+  },
+  {
+    "id": 120,
+    "employeeId": 41,
+    "employeeName": "Gayle Todd",
+    "startDate": "2026-01-15",
+    "endDate": "2026-01-15",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-01-08",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

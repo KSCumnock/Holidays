@@ -1833,5 +1833,110 @@
     "submittedDate": "2026-01-08",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 115,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2026-01-13",
+    "endDate": "2026-01-15",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-01-08",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-01-13",
+      "2026-01-14",
+      "2026-01-15"
+    ]
+  },
+  {
+    "id": 116,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2026-01-20",
+    "endDate": "2026-01-22",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-01-08",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-01-20",
+      "2026-01-21",
+      "2026-01-22"
+    ]
+  },
+  {
+    "id": 117,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2026-01-27",
+    "endDate": "2026-01-29",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-01-08",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-01-27",
+      "2026-01-28",
+      "2026-01-29"
+    ]
+  },
+  {
+    "id": 118,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2026-02-03",
+    "endDate": "2026-02-05",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-01-08",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-02-03",
+      "2026-02-04",
+      "2026-02-05"
+    ]
+  },
+  {
+    "id": 119,
+    "employeeId": 36,
+    "employeeName": "Alex McClelland",
+    "startDate": "2026-02-10",
+    "endDate": "2026-02-12",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-01-08",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-02-10",
+      "2026-02-11",
+      "2026-02-12"
+    ]
   }
 ]

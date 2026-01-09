@@ -1992,5 +1992,20 @@
       "2026-04-30",
       "2026-05-01"
     ]
+  },
+  {
+    "id": 123,
+    "employeeId": 18,
+    "employeeName": "Tommy McBride",
+    "startDate": "2026-01-09",
+    "endDate": "2026-01-09",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-01-09",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

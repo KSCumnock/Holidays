@@ -1969,5 +1969,28 @@
     "submittedDate": "2026-01-09",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 122,
+    "employeeId": 4,
+    "employeeName": "Martin Wallace",
+    "startDate": "2026-04-27",
+    "endDate": "2026-05-01",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-01-09",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-04-27",
+      "2026-04-28",
+      "2026-04-29",
+      "2026-04-30",
+      "2026-05-01"
+    ]
   }
 ]

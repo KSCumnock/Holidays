@@ -2127,5 +2127,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-01-12"
+  },
+  {
+    "id": 131,
+    "employeeId": 33,
+    "employeeName": "Jamie McGinn",
+    "startDate": "2026-09-28",
+    "endDate": "2026-10-09",
+    "days": 10,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-01-12",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

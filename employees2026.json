@@ -215,5 +215,12 @@
     "totalAllowance": 30,
     "usedDays": 3,
     "includeSaturdayDeduction": false
+  },
+  {
+    "id": 50,
+    "name": "Joe Smith",
+    "totalAllowance": 1,
+    "usedDays": 0,
+    "includeSaturdayDeduction": false
   }
 ]

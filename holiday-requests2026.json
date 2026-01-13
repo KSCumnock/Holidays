@@ -2142,5 +2142,20 @@
     "submittedDate": "2026-01-12",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 132,
+    "employeeId": 12,
+    "employeeName": "Finlay Campbell",
+    "startDate": "2026-01-13",
+    "endDate": "2026-01-13",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-01-13",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

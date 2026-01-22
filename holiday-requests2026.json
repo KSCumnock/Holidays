@@ -2387,5 +2387,20 @@
     "submittedDate": "2026-01-22",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 148,
+    "employeeId": 35,
+    "employeeName": "Donna McClure",
+    "startDate": "2026-02-23",
+    "endDate": "2026-02-23",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-01-22",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

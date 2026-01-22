@@ -2260,11 +2260,12 @@
     "isHalfDay": true,
     "halfDayPeriod": "morning",
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-01-16",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2026-01-16"
+    "approvedDate": "2026-01-16",
+    "cancelledDate": "2026-01-22"
   },
   {
     "id": 140,

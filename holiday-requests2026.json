@@ -2432,10 +2432,11 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-01-23",
     "requestType": "sick",
-    "deductFromHoliday": false
+    "deductFromHoliday": false,
+    "cancelledDate": "2026-01-26"
   },
   {
     "id": 151,

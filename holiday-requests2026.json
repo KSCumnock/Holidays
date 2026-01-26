@@ -2452,5 +2452,20 @@
     "submittedDate": "2026-01-23",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 152,
+    "employeeId": 16,
+    "employeeName": "Stuart Little",
+    "startDate": "2026-01-23",
+    "endDate": "2026-01-23",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "To Cover Sick Day",
+    "status": "pending",
+    "submittedDate": "2026-01-26",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

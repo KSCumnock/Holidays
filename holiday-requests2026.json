@@ -2685,5 +2685,20 @@
     "submittedDate": "2026-02-03",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 167,
+    "employeeId": 46,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2026-04-23",
+    "endDate": "2026-04-24",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-02-03",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

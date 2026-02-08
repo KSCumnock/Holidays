@@ -2812,5 +2812,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-02-08"
+  },
+  {
+    "id": 175,
+    "employeeId": 26,
+    "employeeName": "Scott Walker",
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-17",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-02-08",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

@@ -2906,5 +2906,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-02-09"
+  },
+  {
+    "id": 181,
+    "employeeId": 46,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2026-02-13",
+    "endDate": "2026-02-13",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "morning",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-02-09",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

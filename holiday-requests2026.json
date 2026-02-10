@@ -2729,10 +2729,11 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "cancelled",
     "submittedDate": "2026-02-04",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "cancelledDate": "2026-02-10"
   },
   {
     "id": 170,

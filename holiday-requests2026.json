@@ -2864,10 +2864,11 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "rejected",
     "submittedDate": "2026-02-08",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "rejectedDate": "2026-02-10"
   },
   {
     "id": 178,

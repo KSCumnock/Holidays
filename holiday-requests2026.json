@@ -3170,5 +3170,20 @@
     "submittedDate": "2026-02-20",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 197,
+    "employeeId": 20,
+    "employeeName": "Dario Baldassarra",
+    "startDate": "2026-02-20",
+    "endDate": "2026-02-20",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-02-20",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

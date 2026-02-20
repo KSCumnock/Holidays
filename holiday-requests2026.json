@@ -2534,11 +2534,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-01-28",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2026-01-28"
+    "approvedDate": "2026-01-28",
+    "cancelledDate": "2026-02-20"
   },
   {
     "id": 157,

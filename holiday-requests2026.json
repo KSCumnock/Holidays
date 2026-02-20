@@ -3206,5 +3206,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-02-20"
+  },
+  {
+    "id": 199,
+    "employeeId": 49,
+    "employeeName": "Guy Flannagan",
+    "startDate": "2026-02-19",
+    "endDate": "2026-02-20",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-02-20",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

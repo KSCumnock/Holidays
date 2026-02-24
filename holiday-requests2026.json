@@ -3270,5 +3270,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-02-23"
+  },
+  {
+    "id": 203,
+    "employeeId": 22,
+    "employeeName": "David Cox",
+    "startDate": "2026-02-25",
+    "endDate": "2026-02-25",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-02-24",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

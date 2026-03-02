@@ -3425,14 +3425,15 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-03-02",
     "requestType": "holiday",
     "deductFromHoliday": true,
     "isBlockBooking": true,
     "selectedDates": [
       "2026-03-06"
-    ]
+    ],
+    "approvedDate": "2026-03-02"
   },
   {
     "id": 213,

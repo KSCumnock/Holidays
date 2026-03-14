@@ -3600,5 +3600,20 @@
     "submittedDate": "2026-03-13",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 223,
+    "employeeId": 45,
+    "employeeName": "Stephen Armour",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-27",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-03-14",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

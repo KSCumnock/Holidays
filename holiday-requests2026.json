@@ -3930,5 +3930,20 @@
     "submittedDate": "2026-03-23",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 243,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-03-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

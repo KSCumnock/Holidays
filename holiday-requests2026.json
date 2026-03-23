@@ -3979,5 +3979,24 @@
     "selectedDates": [
       "2026-06-25"
     ]
+  },
+  {
+    "id": 246,
+    "employeeId": 48,
+    "employeeName": "Colin Mitchell",
+    "startDate": "2026-03-30",
+    "endDate": "2026-03-30",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-03-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-03-30"
+    ]
   }
 ]

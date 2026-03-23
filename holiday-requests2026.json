@@ -3960,5 +3960,24 @@
     "submittedDate": "2026-03-23",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 245,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-25",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-03-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-06-25"
+    ]
   }
 ]

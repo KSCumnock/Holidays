@@ -4013,5 +4013,20 @@
     "submittedDate": "2026-03-24",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 248,
+    "employeeId": 41,
+    "employeeName": "Gayle Todd",
+    "startDate": "2026-04-13",
+    "endDate": "2026-04-15",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-03-24",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

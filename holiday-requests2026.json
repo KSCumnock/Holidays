@@ -3998,5 +3998,20 @@
     "selectedDates": [
       "2026-03-30"
     ]
+  },
+  {
+    "id": 247,
+    "employeeId": 43,
+    "employeeName": "Karen Kelly",
+    "startDate": "2026-03-24",
+    "endDate": "2026-03-24",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Still off sick",
+    "status": "approved",
+    "submittedDate": "2026-03-24",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

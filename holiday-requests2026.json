@@ -4150,5 +4150,28 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-03-31"
+  },
+  {
+    "id": 256,
+    "employeeId": 4,
+    "employeeName": "Martin Wallace",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-19",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-03-31",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-06-15",
+      "2026-06-16",
+      "2026-06-17",
+      "2026-06-18",
+      "2026-06-19"
+    ]
   }
 ]

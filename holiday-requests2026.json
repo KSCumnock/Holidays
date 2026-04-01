@@ -4211,5 +4211,20 @@
     "submittedDate": "2026-04-01",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 259,
+    "employeeId": 34,
+    "employeeName": "Codie Bottell",
+    "startDate": "2026-04-03",
+    "endDate": "2026-04-03",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-04-01",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

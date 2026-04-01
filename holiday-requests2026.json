@@ -4196,5 +4196,20 @@
       "2026-10-01",
       "2026-10-02"
     ]
+  },
+  {
+    "id": 258,
+    "employeeId": 48,
+    "employeeName": "Colin Mitchell",
+    "startDate": "2026-04-01",
+    "endDate": "2026-04-01",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Dog Not Good - Taking to Vet",
+    "status": "approved",
+    "submittedDate": "2026-04-01",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

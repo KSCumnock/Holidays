@@ -4248,5 +4248,20 @@
       "2026-04-16",
       "2026-04-17"
     ]
+  },
+  {
+    "id": 261,
+    "employeeId": 41,
+    "employeeName": "Gayle Todd",
+    "startDate": "2026-04-03",
+    "endDate": "2026-04-03",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-04-02",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

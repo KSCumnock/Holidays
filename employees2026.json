@@ -222,5 +222,12 @@
     "totalAllowance": 1,
     "usedDays": 0,
     "includeSaturdayDeduction": false
+  },
+  {
+    "id": 51,
+    "name": "Chris Allardyce",
+    "totalAllowance": 30,
+    "usedDays": 0,
+    "includeSaturdayDeduction": false
   }
 ]

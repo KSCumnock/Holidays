@@ -4295,5 +4295,20 @@
     "submittedDate": "2026-04-06",
     "requestType": "sick",
     "deductFromHoliday": false
+  },
+  {
+    "id": 264,
+    "employeeId": 49,
+    "employeeName": "Guy Flannagan",
+    "startDate": "2026-04-06",
+    "endDate": "2026-04-06",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-04-06",
+    "requestType": "sick",
+    "deductFromHoliday": false
   }
 ]

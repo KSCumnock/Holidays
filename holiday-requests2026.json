@@ -4326,5 +4326,20 @@
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-04-06"
+  },
+  {
+    "id": 266,
+    "employeeId": 48,
+    "employeeName": "Colin Mitchell",
+    "startDate": "2026-04-13",
+    "endDate": "2026-04-13",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-04-07",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

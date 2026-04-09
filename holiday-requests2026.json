@@ -4341,9 +4341,10 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-04-07",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-04-09"
   }
 ]

@@ -4397,5 +4397,20 @@
       "2026-06-04",
       "2026-06-05"
     ]
+  },
+  {
+    "id": 270,
+    "employeeId": 12,
+    "employeeName": "Finlay Campbell",
+    "startDate": "2026-06-30",
+    "endDate": "2026-07-14",
+    "days": 11,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-04-13",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

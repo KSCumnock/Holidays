@@ -4629,5 +4629,22 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-04-23",
     "approvedBy": "Donna"
+  },
+  {
+    "id": 284,
+    "employeeId": 48,
+    "employeeName": "Colin Mitchell",
+    "startDate": "2026-04-24",
+    "endDate": "2026-04-24",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Hospital appointment - taking day as unpaid leave. ",
+    "status": "approved",
+    "submittedDate": "2026-04-23",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedBy": "Sean Kelly",
+    "approvedDate": "2026-04-23"
   }
 ]

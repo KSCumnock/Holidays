@@ -4595,5 +4595,20 @@
     "approvedDate": "2026-04-23",
     "cancelledDate": "2026-04-23",
     "cancelledBy": "Sean Kelly"
+  },
+  {
+    "id": 282,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2026-04-23",
+    "endDate": "2026-04-23",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-04-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

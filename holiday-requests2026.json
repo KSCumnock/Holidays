@@ -4612,5 +4612,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-04-23",
     "approvedBy": "Sean Kelly"
+  },
+  {
+    "id": 283,
+    "employeeId": 37,
+    "employeeName": "Sharleen Hamilton",
+    "startDate": "2026-04-29",
+    "endDate": "2026-04-29",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-04-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

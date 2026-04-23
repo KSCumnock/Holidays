@@ -4588,10 +4588,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-04-23",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2026-04-23"
+    "approvedDate": "2026-04-23",
+    "cancelledDate": "2026-04-23",
+    "cancelledBy": "Sean Kelly"
   }
 ]

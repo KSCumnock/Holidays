@@ -4695,5 +4695,49 @@
     "deductFromHoliday": true,
     "approvedBy": "Stephen Armour",
     "approvedDate": "2026-04-27"
+  },
+  {
+    "id": 288,
+    "employeeId": 44,
+    "employeeName": "Nicola Devlin",
+    "startDate": "2026-07-27",
+    "endDate": "2026-07-30",
+    "days": 4,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-04-27",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-07-27",
+      "2026-07-28",
+      "2026-07-29",
+      "2026-07-30"
+    ]
+  },
+  {
+    "id": 289,
+    "employeeId": 44,
+    "employeeName": "Nicola Devlin",
+    "startDate": "2026-08-04",
+    "endDate": "2026-08-07",
+    "days": 4,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-04-27",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-08-04",
+      "2026-08-05",
+      "2026-08-06",
+      "2026-08-07"
+    ]
   }
 ]

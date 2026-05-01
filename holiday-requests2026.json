@@ -4796,5 +4796,25 @@
     "deductFromHoliday": false,
     "approvedBy": "Stephen Armour",
     "approvedDate": "2026-04-29"
+  },
+  {
+    "id": 293,
+    "employeeId": 52,
+    "employeeName": "Simon Boyle",
+    "startDate": "2026-08-14",
+    "endDate": "2026-08-17",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-01",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-08-14",
+      "2026-08-17"
+    ]
   }
 ]

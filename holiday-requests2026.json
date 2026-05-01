@@ -4816,5 +4816,28 @@
       "2026-08-14",
       "2026-08-17"
     ]
+  },
+  {
+    "id": 294,
+    "employeeId": 52,
+    "employeeName": "Simon Boyle",
+    "startDate": "2026-06-29",
+    "endDate": "2026-07-03",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-01",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-06-29",
+      "2026-06-30",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-03"
+    ]
   }
 ]

@@ -229,5 +229,12 @@
     "totalAllowance": 30,
     "usedDays": 5,
     "includeSaturdayDeduction": false
+  },
+  {
+    "id": 52,
+    "name": "Simon Boyle",
+    "totalAllowance": 20,
+    "usedDays": 0,
+    "includeSaturdayDeduction": false
   }
 ]

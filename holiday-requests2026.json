@@ -4843,5 +4843,20 @@
     ],
     "approvedDate": "2026-05-01",
     "approvedBy": "Sean Kelly"
+  },
+  {
+    "id": 295,
+    "employeeId": 46,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2026-05-01",
+    "endDate": "2026-05-01",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-01",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

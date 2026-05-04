@@ -2,9 +2,20 @@
   {
     "id": 46,
     "name": "Aimee Kennedy",
-    "totalAllowance": 30,
+    "totalAllowance": 31,
     "usedDays": 18,
-    "includeSaturdayDeduction": false
+    "includeSaturdayDeduction": false,
+    "toilEarned": 1,
+    "toilHistory": [
+      {
+        "id": "toil-1777903611851-46",
+        "dateWorked": "2026-05-09",
+        "days": 1,
+        "reason": "Ayr Show",
+        "grantedBy": "Sean Kelly",
+        "grantedDate": "2026-05-04"
+      }
+    ]
   },
   {
     "id": 13,
@@ -107,9 +118,20 @@
   {
     "id": 43,
     "name": "Karen Kelly",
-    "totalAllowance": 30,
+    "totalAllowance": 31,
     "usedDays": 17,
-    "includeSaturdayDeduction": false
+    "includeSaturdayDeduction": false,
+    "toilEarned": 1,
+    "toilHistory": [
+      {
+        "id": "toil-1777903611851-43",
+        "dateWorked": "2026-05-09",
+        "days": 1,
+        "reason": "Ayr Show",
+        "grantedBy": "Sean Kelly",
+        "grantedDate": "2026-05-04"
+      }
+    ]
   },
   {
     "id": 17,

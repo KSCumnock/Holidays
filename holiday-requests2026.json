@@ -4860,5 +4860,22 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-05-01",
     "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 296,
+    "employeeId": 51,
+    "employeeName": "Chris Allardyce",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-04",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-05-04",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedBy": "KAREN KELLY",
+    "approvedDate": "2026-05-04"
   }
 ]

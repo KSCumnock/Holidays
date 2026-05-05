@@ -4928,5 +4928,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-05-05",
     "approvedBy": "Donna"
+  },
+  {
+    "id": 300,
+    "employeeId": 37,
+    "employeeName": "Sharleen Hamilton",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-04",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-05",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

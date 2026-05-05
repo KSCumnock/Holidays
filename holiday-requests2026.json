@@ -4911,5 +4911,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-05-04",
     "approvedBy": "Sean Kelly"
+  },
+  {
+    "id": 299,
+    "employeeId": 41,
+    "employeeName": "Gayle Todd",
+    "startDate": "2026-05-05",
+    "endDate": "2026-05-05",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-05",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

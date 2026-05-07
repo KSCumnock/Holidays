@@ -5028,5 +5028,22 @@
     "submittedDate": "2026-05-07",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 306,
+    "employeeId": 45,
+    "employeeName": "Stephen Armour",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Hospital Appointment",
+    "status": "approved",
+    "submittedDate": "2026-05-07",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedBy": "Stephen Armour",
+    "approvedDate": "2026-05-07"
   }
 ]

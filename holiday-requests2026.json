@@ -5013,5 +5013,20 @@
     "deductFromHoliday": false,
     "approvedBy": "Stephen Armour",
     "approvedDate": "2026-05-07"
+  },
+  {
+    "id": 305,
+    "employeeId": 45,
+    "employeeName": "Stephen Armour",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-26",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-07",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

@@ -5047,5 +5047,22 @@
     "deductFromHoliday": false,
     "approvedBy": "Stephen Armour",
     "approvedDate": "2026-05-07"
+  },
+  {
+    "id": 307,
+    "employeeId": 17,
+    "employeeName": "Luke McGhee",
+    "startDate": "2026-05-08",
+    "endDate": "2026-05-08",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-05-08",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedBy": "Stephen Armour",
+    "approvedDate": "2026-05-08"
   }
 ]

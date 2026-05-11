@@ -5085,5 +5085,28 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-05-11",
     "approvedBy": "Donna"
+  },
+  {
+    "id": 309,
+    "employeeId": 51,
+    "employeeName": "Chris Allardyce",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-06",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Sick days have to be paid via deducting holidays from holiday allowance. ",
+    "status": "approved",
+    "submittedDate": "2026-05-11",
+    "requestType": "sick",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-05-04",
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "approvedBy": "Sean Kelly",
+    "approvedDate": "2026-05-11"
   }
 ]

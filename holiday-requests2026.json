@@ -5108,5 +5108,20 @@
     ],
     "approvedBy": "Sean Kelly",
     "approvedDate": "2026-05-11"
+  },
+  {
+    "id": 310,
+    "employeeId": 7,
+    "employeeName": "Chris Smith",
+    "startDate": "2026-05-12",
+    "endDate": "2026-05-12",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-11",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

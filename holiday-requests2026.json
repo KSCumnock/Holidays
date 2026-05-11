@@ -4958,12 +4958,14 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-05-05",
     "requestType": "sick",
     "deductFromHoliday": false,
     "approvedBy": "Karen Kelly",
-    "approvedDate": "2026-05-05"
+    "approvedDate": "2026-05-05",
+    "cancelledDate": "2026-05-11",
+    "cancelledBy": "Sean Kelly"
   },
   {
     "id": 302,

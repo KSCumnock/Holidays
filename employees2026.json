@@ -258,5 +258,12 @@
     "totalAllowance": 20,
     "usedDays": 7,
     "includeSaturdayDeduction": false
+  },
+  {
+    "id": 53,
+    "name": "David Bunsen",
+    "totalAllowance": 17,
+    "usedDays": 0,
+    "includeSaturdayDeduction": false
   }
 ]

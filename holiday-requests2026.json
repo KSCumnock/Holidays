@@ -5210,5 +5210,22 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-05-12",
     "approvedBy": "Donna"
+  },
+  {
+    "id": 316,
+    "employeeId": 54,
+    "employeeName": "Darryl Climie",
+    "startDate": "2026-05-13",
+    "endDate": "2026-05-13",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-05-13",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedBy": "Aimee Kennedy",
+    "approvedDate": "2026-05-13"
   }
 ]

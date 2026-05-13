@@ -265,5 +265,12 @@
     "totalAllowance": 17,
     "usedDays": 0,
     "includeSaturdayDeduction": false
+  },
+  {
+    "id": 54,
+    "name": "Darryl Climie",
+    "totalAllowance": 1,
+    "usedDays": 0,
+    "includeSaturdayDeduction": false
   }
 ]

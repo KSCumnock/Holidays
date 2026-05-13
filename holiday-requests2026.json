@@ -5227,5 +5227,20 @@
     "deductFromHoliday": false,
     "approvedBy": "Aimee Kennedy",
     "approvedDate": "2026-05-13"
+  },
+  {
+    "id": 317,
+    "employeeId": 51,
+    "employeeName": "Chris Allardyce",
+    "startDate": "2026-05-14",
+    "endDate": "2026-05-14",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-13",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

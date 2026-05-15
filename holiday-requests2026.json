@@ -5247,5 +5247,20 @@
     "deductFromHoliday": true,
     "cancelledDate": "2026-05-14",
     "cancelledBy": "Aimee Kennedy"
+  },
+  {
+    "id": 319,
+    "employeeId": 17,
+    "employeeName": "Luke McGhee",
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-07",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-15",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

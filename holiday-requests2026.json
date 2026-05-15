@@ -2587,11 +2587,13 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-01-30",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2026-02-02"
+    "approvedDate": "2026-02-02",
+    "cancelledDate": "2026-05-15",
+    "cancelledBy": "Aimee Kennedy"
   },
   {
     "id": 160,

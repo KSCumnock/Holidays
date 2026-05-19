@@ -5315,5 +5315,22 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-05-18",
     "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 323,
+    "employeeId": 48,
+    "employeeName": "Colin Mitchell",
+    "startDate": "2026-05-19",
+    "endDate": "2026-05-19",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "sore head since last Thursday.",
+    "status": "approved",
+    "submittedDate": "2026-05-19",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedBy": "Karen Kelly",
+    "approvedDate": "2026-05-19"
   }
 ]

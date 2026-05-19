@@ -5368,5 +5368,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-05-19",
     "approvedBy": "Karen Kelly"
+  },
+  {
+    "id": 326,
+    "employeeId": 52,
+    "employeeName": "Simon Boyle",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-25",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-19",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

@@ -2141,11 +2141,13 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-01-12",
     "requestType": "holiday",
     "deductFromHoliday": true,
-    "approvedDate": "2026-02-10"
+    "approvedDate": "2026-02-10",
+    "cancelledDate": "2026-05-19",
+    "cancelledBy": "karen kelly"
   },
   {
     "id": 132,

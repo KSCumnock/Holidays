@@ -5398,5 +5398,27 @@
     "submittedDate": "2026-05-19",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 328,
+    "employeeId": 40,
+    "employeeName": "Ian Pollock",
+    "startDate": "2026-07-11",
+    "endDate": "2026-07-15",
+    "days": 4,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-05-19",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-07-11",
+      "2026-07-13",
+      "2026-07-14",
+      "2026-07-15"
+    ]
   }
 ]

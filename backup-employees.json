@@ -140,7 +140,7 @@
     "id": 40,
     "name": "Ian Pollock",
     "totalAllowance": 24,
-    "usedDays": 7,
+    "usedDays": 13,
     "includeSaturdayDeduction": true
   },
   {
@@ -228,7 +228,7 @@
     "id": 52,
     "name": "Simon Boyle",
     "totalAllowance": 20,
-    "usedDays": 7,
+    "usedDays": 9,
     "includeSaturdayDeduction": false
   },
   {

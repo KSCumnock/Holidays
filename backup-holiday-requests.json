@@ -5379,10 +5379,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-05-19",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-05-20",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 327,
@@ -5394,10 +5396,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-05-19",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-05-20",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 328,
@@ -5409,7 +5413,7 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-05-19",
     "requestType": "holiday",
     "deductFromHoliday": true,
@@ -5419,7 +5423,9 @@
       "2026-07-13",
       "2026-07-14",
       "2026-07-15"
-    ]
+    ],
+    "approvedDate": "2026-05-20",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 329,

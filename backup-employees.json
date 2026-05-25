@@ -70,7 +70,7 @@
     "id": 20,
     "name": "Dario Baldassarra",
     "totalAllowance": 30,
-    "usedDays": 12.5,
+    "usedDays": 13.5,
     "includeSaturdayDeduction": false
   },
   {
@@ -91,7 +91,7 @@
     "id": 22,
     "name": "David Cox",
     "totalAllowance": 30,
-    "usedDays": 8,
+    "usedDays": 9,
     "includeSaturdayDeduction": false
   },
   {
@@ -249,7 +249,7 @@
     "id": 16,
     "name": "Stuart Little",
     "totalAllowance": 30,
-    "usedDays": 26,
+    "usedDays": 13,
     "includeSaturdayDeduction": false
   },
   {

@@ -5808,5 +5808,31 @@
     "deductFromHoliday": false,
     "approvedDate": "2026-05-28",
     "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 351,
+    "employeeId": 13,
+    "employeeName": "Alan Leckie",
+    "startDate": "2026-07-29",
+    "endDate": "2026-08-07",
+    "days": 8,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Lorraine going for operation Alan needs to look after dogs",
+    "status": "pending",
+    "submittedDate": "2026-05-28",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "isBlockBooking": true,
+    "selectedDates": [
+      "2026-07-29",
+      "2026-07-30",
+      "2026-07-31",
+      "2026-08-03",
+      "2026-08-04",
+      "2026-08-05",
+      "2026-08-06",
+      "2026-08-07"
+    ]
   }
 ]

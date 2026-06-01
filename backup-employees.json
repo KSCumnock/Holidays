@@ -21,7 +21,7 @@
     "id": 13,
     "name": "Alan Leckie",
     "totalAllowance": 30,
-    "usedDays": 3,
+    "usedDays": 11,
     "includeSaturdayDeduction": false
   },
   {
@@ -63,7 +63,7 @@
     "id": 48,
     "name": "Colin Mitchell",
     "totalAllowance": 30,
-    "usedDays": 27.5,
+    "usedDays": 28,
     "includeSaturdayDeduction": false
   },
   {
@@ -91,7 +91,7 @@
     "id": 22,
     "name": "David Cox",
     "totalAllowance": 30,
-    "usedDays": 9,
+    "usedDays": 10,
     "includeSaturdayDeduction": false
   },
   {
@@ -161,7 +161,7 @@
     "id": 43,
     "name": "Karen Kelly",
     "totalAllowance": 31,
-    "usedDays": 17,
+    "usedDays": 18,
     "includeSaturdayDeduction": false,
     "toilEarned": 1,
     "toilHistory": [
@@ -263,7 +263,7 @@
     "id": 47,
     "name": "Tommy Samson",
     "totalAllowance": 30,
-    "usedDays": 22,
+    "usedDays": 23,
     "includeSaturdayDeduction": false
   },
   {

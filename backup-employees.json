@@ -35,7 +35,7 @@
     "id": 6,
     "name": "Billy Mathieson",
     "totalAllowance": 30,
-    "usedDays": 10,
+    "usedDays": 10.5,
     "includeSaturdayDeduction": false
   },
   {
@@ -235,7 +235,7 @@
     "id": 45,
     "name": "Stephen Armour",
     "totalAllowance": 30,
-    "usedDays": 28,
+    "usedDays": 28.5,
     "includeSaturdayDeduction": false
   },
   {

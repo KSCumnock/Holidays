@@ -98,7 +98,7 @@
     "id": 27,
     "name": "David Young",
     "totalAllowance": 30,
-    "usedDays": 7,
+    "usedDays": 21,
     "includeSaturdayDeduction": false
   },
   {
@@ -119,7 +119,7 @@
     "id": 41,
     "name": "Gayle Todd",
     "totalAllowance": 30,
-    "usedDays": 19.5,
+    "usedDays": 20.5,
     "includeSaturdayDeduction": false
   },
   {

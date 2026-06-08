@@ -6076,10 +6076,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-04",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-08",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 366,
@@ -6091,10 +6093,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-04",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-08",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 367,
@@ -6106,10 +6110,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-05",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-08",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 368,
@@ -6144,5 +6150,22 @@
     "deductFromHoliday": false,
     "approvedDate": "2026-06-05",
     "approvedBy": "Karem Kelly"
+  },
+  {
+    "id": 370,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Txt to say he could'nt come in",
+    "status": "approved",
+    "submittedDate": "2026-06-08",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedDate": "2026-06-08",
+    "approvedBy": "Sean Kelly"
   }
 ]

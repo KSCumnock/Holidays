@@ -49,14 +49,14 @@
     "id": 7,
     "name": "Chris Smith",
     "totalAllowance": 30,
-    "usedDays": 10.5,
+    "usedDays": 13.5,
     "includeSaturdayDeduction": false
   },
   {
     "id": 34,
     "name": "Codie Bottell",
     "totalAllowance": 30,
-    "usedDays": 9,
+    "usedDays": 19,
     "includeSaturdayDeduction": false
   },
   {
@@ -271,6 +271,13 @@
     "name": "William Smith",
     "totalAllowance": 30,
     "usedDays": 3,
+    "includeSaturdayDeduction": false
+  },
+  {
+    "id": 55,
+    "name": "Zak Mullin",
+    "totalAllowance": 16,
+    "usedDays": 0,
     "includeSaturdayDeduction": false
   }
 ]

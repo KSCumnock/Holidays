@@ -186,7 +186,7 @@
     "id": 4,
     "name": "Martin Wallace",
     "totalAllowance": 30,
-    "usedDays": 23,
+    "usedDays": 24,
     "includeSaturdayDeduction": false
   },
   {
@@ -228,7 +228,7 @@
     "id": 52,
     "name": "Simon Boyle",
     "totalAllowance": 20,
-    "usedDays": 9,
+    "usedDays": 9.5,
     "includeSaturdayDeduction": false
   },
   {

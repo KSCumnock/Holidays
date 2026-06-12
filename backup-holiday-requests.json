@@ -6350,5 +6350,22 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-06-11",
     "approvedBy": "Sean Kelly"
+  },
+  {
+    "id": 382,
+    "employeeId": 48,
+    "employeeName": "Colin Mitchell",
+    "startDate": "2026-06-12",
+    "endDate": "2026-06-12",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "SICK",
+    "status": "approved",
+    "submittedDate": "2026-06-12",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedDate": "2026-06-12",
+    "approvedBy": "Karen Kelly"
   }
 ]

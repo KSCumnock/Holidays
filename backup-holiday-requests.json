@@ -6367,5 +6367,20 @@
     "deductFromHoliday": false,
     "approvedDate": "2026-06-12",
     "approvedBy": "Karen Kelly"
+  },
+  {
+    "id": 383,
+    "employeeId": 44,
+    "employeeName": "Nicola Devlin",
+    "startDate": "2026-06-30",
+    "endDate": "2026-06-30",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-06-12",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

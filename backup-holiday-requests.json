@@ -6433,5 +6433,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-06-15",
     "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 387,
+    "employeeId": 53,
+    "employeeName": "David Bunsen",
+    "startDate": "2026-06-29",
+    "endDate": "2026-07-15",
+    "days": 13,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-06-15",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

@@ -56,7 +56,7 @@
     "id": 34,
     "name": "Codie Bottell",
     "totalAllowance": 30,
-    "usedDays": 19,
+    "usedDays": 20,
     "includeSaturdayDeduction": false
   },
   {
@@ -84,7 +84,7 @@
     "id": 53,
     "name": "David Bunsen",
     "totalAllowance": 17,
-    "usedDays": 0,
+    "usedDays": 13,
     "includeSaturdayDeduction": false
   },
   {
@@ -105,7 +105,7 @@
     "id": 35,
     "name": "Donna McClure",
     "totalAllowance": 30,
-    "usedDays": 10.5,
+    "usedDays": 18.5,
     "includeSaturdayDeduction": false
   },
   {
@@ -147,7 +147,7 @@
     "id": 33,
     "name": "Jamie McGinn",
     "totalAllowance": 30,
-    "usedDays": 11,
+    "usedDays": 16,
     "includeSaturdayDeduction": false
   },
   {
@@ -193,7 +193,7 @@
     "id": 44,
     "name": "Nicola Devlin",
     "totalAllowance": 30,
-    "usedDays": 22,
+    "usedDays": 22.5,
     "includeSaturdayDeduction": false
   },
   {
@@ -207,7 +207,7 @@
     "id": 26,
     "name": "Scott Walker",
     "totalAllowance": 30,
-    "usedDays": 21,
+    "usedDays": 26,
     "includeSaturdayDeduction": false
   },
   {
@@ -221,7 +221,7 @@
     "id": 37,
     "name": "Sharleen Hamilton",
     "totalAllowance": 24,
-    "usedDays": 10,
+    "usedDays": 11,
     "includeSaturdayDeduction": false
   },
   {

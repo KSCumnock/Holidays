@@ -6609,5 +6609,20 @@
     "deductFromHoliday": false,
     "approvedDate": "2026-06-17",
     "approvedBy": "Sean Kelly"
+  },
+  {
+    "id": 397,
+    "employeeId": 44,
+    "employeeName": "Nicola Devlin",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-25",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-06-18",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

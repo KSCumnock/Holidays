@@ -6654,5 +6654,35 @@
     "submittedDate": "2026-06-19",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 400,
+    "employeeId": 52,
+    "employeeName": "Simon Boyle",
+    "startDate": "2026-07-06",
+    "endDate": "2026-07-10",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-06-20",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 401,
+    "employeeId": 22,
+    "employeeName": "David Cox",
+    "startDate": "2026-06-24",
+    "endDate": "2026-06-24",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-06-20",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

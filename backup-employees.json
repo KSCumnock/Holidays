@@ -3,7 +3,7 @@
     "id": 46,
     "name": "Aimee Kennedy",
     "totalAllowance": 31,
-    "usedDays": 26,
+    "usedDays": 25,
     "includeSaturdayDeduction": false,
     "toilEarned": 1,
     "toilHistory": [
@@ -21,7 +21,7 @@
     "id": 13,
     "name": "Alan Leckie",
     "totalAllowance": 30,
-    "usedDays": 11,
+    "usedDays": 15,
     "includeSaturdayDeduction": false
   },
   {
@@ -84,7 +84,7 @@
     "id": 53,
     "name": "David Bunsen",
     "totalAllowance": 17,
-    "usedDays": 13,
+    "usedDays": 0,
     "includeSaturdayDeduction": false
   },
   {

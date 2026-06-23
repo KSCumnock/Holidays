@@ -5606,12 +5606,14 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Mum in hospital",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-05-26",
     "requestType": "sick",
     "deductFromHoliday": true,
     "approvedDate": "2026-05-26",
-    "approvedBy": "Karen Kelly"
+    "approvedBy": "Karen Kelly",
+    "cancelledDate": "2026-06-23",
+    "cancelledBy": "Aimee Kennedy"
   },
   {
     "id": 339,
@@ -5923,12 +5925,14 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Wife in hospital",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-06-02",
     "requestType": "sick",
     "deductFromHoliday": false,
     "approvedDate": "2026-06-02",
-    "approvedBy": "Karen Kelly"
+    "approvedBy": "Karen Kelly",
+    "cancelledDate": "2026-06-23",
+    "cancelledBy": "Donna"
   },
   {
     "id": 357,
@@ -5974,12 +5978,14 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Wife in hospital",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-06-03",
     "requestType": "sick",
     "deductFromHoliday": false,
     "approvedDate": "2026-06-03",
-    "approvedBy": "Karen Kelly"
+    "approvedBy": "Karen Kelly",
+    "cancelledDate": "2026-06-23",
+    "cancelledBy": "Donna"
   },
   {
     "id": 360,
@@ -6127,12 +6133,14 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Wife in hospital",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-06-05",
     "requestType": "sick",
     "deductFromHoliday": false,
     "approvedDate": "2026-06-05",
-    "approvedBy": "Karen Kelly"
+    "approvedBy": "Karen Kelly",
+    "cancelledDate": "2026-06-23",
+    "cancelledBy": "Donna"
   },
   {
     "id": 369,
@@ -6144,12 +6152,14 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Wife in hospital",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-06-05",
     "requestType": "sick",
     "deductFromHoliday": false,
     "approvedDate": "2026-06-05",
-    "approvedBy": "Karem Kelly"
+    "approvedBy": "Karem Kelly",
+    "cancelledDate": "2026-06-23",
+    "cancelledBy": "Donna"
   },
   {
     "id": 370,
@@ -6450,12 +6460,14 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-06-15",
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-06-16",
-    "approvedBy": "Sean Kelly"
+    "approvedBy": "Sean Kelly",
+    "cancelledDate": "2026-06-23",
+    "cancelledBy": "Nicola Devlin"
   },
   {
     "id": 388,
@@ -6761,6 +6773,85 @@
     "reason": "",
     "status": "pending",
     "submittedDate": "2026-06-22",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 407,
+    "employeeId": 46,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2026-05-26",
+    "endDate": "2026-05-26",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "mum in hosp",
+    "status": "approved",
+    "submittedDate": "2026-06-23",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedDate": "2026-06-23",
+    "approvedBy": "Aimee Kennedy"
+  },
+  {
+    "id": 408,
+    "employeeId": 13,
+    "employeeName": "Alan Leckie",
+    "startDate": "2026-06-02",
+    "endDate": "2026-06-05",
+    "days": 4,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Sick Days taken as Holidays",
+    "status": "approved",
+    "submittedDate": "2026-06-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-23",
+    "approvedBy": "Donna"
+  },
+  {
+    "id": 409,
+    "employeeId": 53,
+    "employeeName": "David Bunsen",
+    "startDate": "2026-06-29",
+    "endDate": "2026-07-10",
+    "days": 10,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-06-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 410,
+    "employeeId": 53,
+    "employeeName": "David Bunsen",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-24",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-06-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 411,
+    "employeeId": 6,
+    "employeeName": "Billy Mathieson",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-09",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-06-23",
     "requestType": "holiday",
     "deductFromHoliday": true
   }

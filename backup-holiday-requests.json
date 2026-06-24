@@ -5961,12 +5961,14 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-06-03",
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-06-03",
-    "approvedBy": "Stephen Armour"
+    "approvedBy": "Stephen Armour",
+    "cancelledDate": "2026-06-24",
+    "cancelledBy": "Stephen Armour"
   },
   {
     "id": 359,
@@ -6392,12 +6394,14 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-06-12",
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-06-16",
-    "approvedBy": "Sean Kelly"
+    "approvedBy": "Sean Kelly",
+    "cancelledDate": "2026-06-24",
+    "cancelledBy": "nicola devlin"
   },
   {
     "id": 384,
@@ -6632,10 +6636,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-18",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 398,
@@ -6647,10 +6653,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-18",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 399,
@@ -6662,10 +6670,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-19",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 400,
@@ -6677,10 +6687,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-20",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 401,
@@ -6692,10 +6704,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-20",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 402,
@@ -6724,10 +6738,12 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-22",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 404,
@@ -6739,12 +6755,14 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "approved",
+    "status": "cancelled",
     "submittedDate": "2026-06-22",
     "requestType": "holiday",
     "deductFromHoliday": true,
     "approvedDate": "2026-06-22",
-    "approvedBy": "Stephen Armour"
+    "approvedBy": "Stephen Armour",
+    "cancelledDate": "2026-06-24",
+    "cancelledBy": "Stephen Armour"
   },
   {
     "id": 405,
@@ -6756,10 +6774,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-22",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 406,
@@ -6771,10 +6791,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-22",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 407,
@@ -6820,10 +6842,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-23",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 410,
@@ -6835,10 +6859,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-23",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 411,
@@ -6850,10 +6876,12 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-06-23",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   },
   {
     "id": 412,
@@ -6871,5 +6899,39 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-06-24",
     "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 413,
+    "employeeId": 45,
+    "employeeName": "Stephen Armour",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-25",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-06-24",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 414,
+    "employeeId": 44,
+    "employeeName": "Nicola Devlin",
+    "startDate": "2026-06-30",
+    "endDate": "2026-06-30",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-06-24",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-06-24",
+    "approvedBy": "Sean Kelly"
   }
 ]

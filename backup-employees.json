@@ -35,7 +35,7 @@
     "id": 6,
     "name": "Billy Mathieson",
     "totalAllowance": 30,
-    "usedDays": 10.5,
+    "usedDays": 21,
     "includeSaturdayDeduction": false
   },
   {
@@ -84,14 +84,14 @@
     "id": 53,
     "name": "David Bunsen",
     "totalAllowance": 17,
-    "usedDays": 0,
+    "usedDays": 11,
     "includeSaturdayDeduction": false
   },
   {
     "id": 22,
     "name": "David Cox",
     "totalAllowance": 30,
-    "usedDays": 12,
+    "usedDays": 13,
     "includeSaturdayDeduction": false
   },
   {
@@ -140,7 +140,7 @@
     "id": 40,
     "name": "Ian Pollock",
     "totalAllowance": 24,
-    "usedDays": 13,
+    "usedDays": 14,
     "includeSaturdayDeduction": true
   },
   {
@@ -193,7 +193,7 @@
     "id": 44,
     "name": "Nicola Devlin",
     "totalAllowance": 30,
-    "usedDays": 22.5,
+    "usedDays": 24,
     "includeSaturdayDeduction": false
   },
   {
@@ -228,7 +228,7 @@
     "id": 52,
     "name": "Simon Boyle",
     "totalAllowance": 20,
-    "usedDays": 9.5,
+    "usedDays": 14.5,
     "includeSaturdayDeduction": false
   },
   {
@@ -242,7 +242,7 @@
     "id": 15,
     "name": "Steven Guthrie",
     "totalAllowance": 30,
-    "usedDays": 28,
+    "usedDays": 29,
     "includeSaturdayDeduction": false
   },
   {
@@ -263,7 +263,7 @@
     "id": 47,
     "name": "Tommy Samson",
     "totalAllowance": 30,
-    "usedDays": 23,
+    "usedDays": 23.5,
     "includeSaturdayDeduction": false
   },
   {

@@ -91,7 +91,7 @@
     "id": 22,
     "name": "David Cox",
     "totalAllowance": 30,
-    "usedDays": 13,
+    "usedDays": 14,
     "includeSaturdayDeduction": false
   },
   {
@@ -161,7 +161,7 @@
     "id": 43,
     "name": "Karen Kelly",
     "totalAllowance": 31,
-    "usedDays": 18,
+    "usedDays": 18.5,
     "includeSaturdayDeduction": false,
     "toilEarned": 1,
     "toilHistory": [
@@ -214,7 +214,7 @@
     "id": 42,
     "name": "Sean Kelly",
     "totalAllowance": 30,
-    "usedDays": 18.5,
+    "usedDays": 19,
     "includeSaturdayDeduction": false
   },
   {

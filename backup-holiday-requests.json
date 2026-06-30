@@ -7018,5 +7018,22 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-06-30",
     "approvedBy": "Sean Kelly"
+  },
+  {
+    "id": 420,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2026-06-30",
+    "endDate": "2026-06-30",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "away home sick PM 1pm",
+    "status": "approved",
+    "submittedDate": "2026-06-30",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedDate": "2026-06-30",
+    "approvedBy": "Karen Kelly"
   }
 ]

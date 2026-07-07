@@ -7176,5 +7176,39 @@
     "deductFromHoliday": false,
     "approvedDate": "2026-07-06",
     "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 429,
+    "employeeId": 43,
+    "employeeName": "Karen Kelly",
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-15",
+    "days": 3,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-07-07",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-07-07",
+    "approvedBy": "Karen Kelly"
+  },
+  {
+    "id": 430,
+    "employeeId": 49,
+    "employeeName": "Guy Flannagan",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-08",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Text to say he has Chest infection and Nose Polyps - Doctor has advised him to stay off till Thursday to let anti-biotics kick in",
+    "status": "approved",
+    "submittedDate": "2026-07-07",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedDate": "2026-07-07",
+    "approvedBy": "Stephen Armour"
   }
 ]

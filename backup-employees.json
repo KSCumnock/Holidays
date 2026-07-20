@@ -3,7 +3,7 @@
     "id": 46,
     "name": "Aimee Kennedy",
     "totalAllowance": 31,
-    "usedDays": 25.5,
+    "usedDays": 26.5,
     "includeSaturdayDeduction": false,
     "toilEarned": 1,
     "toilHistory": [
@@ -277,7 +277,7 @@
     "id": 55,
     "name": "Zak Mullin",
     "totalAllowance": 16,
-    "usedDays": 5,
+    "usedDays": 10,
     "includeSaturdayDeduction": false
   }
 ]

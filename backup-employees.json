@@ -146,9 +146,20 @@
   {
     "id": 33,
     "name": "Jamie McGinn",
-    "totalAllowance": 30,
-    "usedDays": 26,
-    "includeSaturdayDeduction": false
+    "totalAllowance": 37,
+    "usedDays": 28,
+    "includeSaturdayDeduction": false,
+    "toilEarned": 7,
+    "toilHistory": [
+      {
+        "id": "toil-1784714577112-33",
+        "dateWorked": "2026-07-18",
+        "days": 7,
+        "reason": "Carry forward from 2025",
+        "grantedBy": "Sean Kelly",
+        "grantedDate": "2026-07-22"
+      }
+    ]
   },
   {
     "id": 50,
@@ -263,7 +274,7 @@
     "id": 47,
     "name": "Tommy Samson",
     "totalAllowance": 30,
-    "usedDays": 23.5,
+    "usedDays": 24.5,
     "includeSaturdayDeduction": false
   },
   {

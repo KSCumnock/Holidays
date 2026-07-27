@@ -7607,5 +7607,20 @@
     "submittedDate": "2026-07-24",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 454,
+    "employeeId": 17,
+    "employeeName": "Luke McGhee",
+    "startDate": "2026-07-31",
+    "endDate": "2026-07-31",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-07-27",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

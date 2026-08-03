@@ -42,7 +42,7 @@
     "id": 51,
     "name": "Chris Allardyce",
     "totalAllowance": 30,
-    "usedDays": 9,
+    "usedDays": 19,
     "includeSaturdayDeduction": false
   },
   {
@@ -84,7 +84,7 @@
     "id": 53,
     "name": "David Bunsen",
     "totalAllowance": 17,
-    "usedDays": 11,
+    "usedDays": 12,
     "includeSaturdayDeduction": false
   },
   {
@@ -239,7 +239,7 @@
     "id": 52,
     "name": "Simon Boyle",
     "totalAllowance": 20,
-    "usedDays": 14.5,
+    "usedDays": 15,
     "includeSaturdayDeduction": false
   },
   {
@@ -281,7 +281,7 @@
     "id": 39,
     "name": "William Smith",
     "totalAllowance": 30,
-    "usedDays": 3,
+    "usedDays": 4,
     "includeSaturdayDeduction": false
   },
   {

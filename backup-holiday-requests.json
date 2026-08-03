@@ -7603,10 +7603,12 @@
     "isHalfDay": true,
     "halfDayPeriod": "afternoon",
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-07-24",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-08-03",
+    "approvedBy": "Karen Kelly"
   },
   {
     "id": 454,
@@ -7665,10 +7667,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-07-28",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-08-03",
+    "approvedBy": "Karen KELLY"
   },
   {
     "id": 458,
@@ -7680,10 +7684,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-07-29",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-08-03",
+    "approvedBy": "Karen Kelly"
   },
   {
     "id": 459,
@@ -7701,5 +7707,86 @@
     "deductFromHoliday": false,
     "approvedDate": "2026-07-31",
     "approvedBy": "aimee kennedy"
+  },
+  {
+    "id": 460,
+    "employeeId": 12,
+    "employeeName": "Finlay Campbell",
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-03",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "called in sick - asked to use holiday",
+    "status": "pending",
+    "submittedDate": "2026-08-03",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 461,
+    "employeeId": 48,
+    "employeeName": "Colin Mitchell",
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-03",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Son not well",
+    "status": "approved",
+    "submittedDate": "2026-08-03",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedDate": "2026-08-03",
+    "approvedBy": "Karen Kelly"
+  },
+  {
+    "id": 462,
+    "employeeId": 49,
+    "employeeName": "Guy Flannagan",
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-03",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Text to say still not well",
+    "status": "approved",
+    "submittedDate": "2026-08-03",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedDate": "2026-08-03",
+    "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 463,
+    "employeeId": 22,
+    "employeeName": "David Cox",
+    "startDate": "2026-08-28",
+    "endDate": "2026-08-28",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-08-03",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 464,
+    "employeeId": 39,
+    "employeeName": "William Smith",
+    "startDate": "2026-08-07",
+    "endDate": "2026-08-07",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-08-03",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-08-03",
+    "approvedBy": "Karen Kelly"
   }
 ]

@@ -7788,5 +7788,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-08-03",
     "approvedBy": "Karen Kelly"
+  },
+  {
+    "id": 465,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2026-08-07",
+    "endDate": "2026-08-10",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-08-04",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

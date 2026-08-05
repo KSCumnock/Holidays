@@ -49,7 +49,7 @@
     "id": 7,
     "name": "Chris Smith",
     "totalAllowance": 30,
-    "usedDays": 21.5,
+    "usedDays": 27.5,
     "includeSaturdayDeduction": false
   },
   {
@@ -91,7 +91,7 @@
     "id": 22,
     "name": "David Cox",
     "totalAllowance": 30,
-    "usedDays": 18,
+    "usedDays": 19,
     "includeSaturdayDeduction": false
   },
   {
@@ -112,7 +112,7 @@
     "id": 12,
     "name": "Finlay Campbell",
     "totalAllowance": 30,
-    "usedDays": 18.5,
+    "usedDays": 19.5,
     "includeSaturdayDeduction": false
   },
   {
@@ -133,7 +133,7 @@
     "id": 11,
     "name": "Harrison Hannah",
     "totalAllowance": 30,
-    "usedDays": 11,
+    "usedDays": 13,
     "includeSaturdayDeduction": false
   },
   {
@@ -172,7 +172,7 @@
     "id": 43,
     "name": "Karen Kelly",
     "totalAllowance": 31,
-    "usedDays": 22.5,
+    "usedDays": 24.5,
     "includeSaturdayDeduction": false,
     "toilEarned": 1,
     "toilHistory": [
@@ -225,7 +225,7 @@
     "id": 42,
     "name": "Sean Kelly",
     "totalAllowance": 30,
-    "usedDays": 24,
+    "usedDays": 26,
     "includeSaturdayDeduction": false
   },
   {

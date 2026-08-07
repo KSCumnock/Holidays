@@ -84,7 +84,7 @@
     "id": 53,
     "name": "David Bunsen",
     "totalAllowance": 17,
-    "usedDays": 12,
+    "usedDays": 12.5,
     "includeSaturdayDeduction": false
   },
   {
@@ -112,7 +112,7 @@
     "id": 12,
     "name": "Finlay Campbell",
     "totalAllowance": 30,
-    "usedDays": 19.5,
+    "usedDays": 20,
     "includeSaturdayDeduction": false
   },
   {

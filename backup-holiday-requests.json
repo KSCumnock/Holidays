@@ -7949,5 +7949,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-08-10",
     "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 474,
+    "employeeId": 33,
+    "employeeName": "Jamie McGinn",
+    "startDate": "2026-08-11",
+    "endDate": "2026-08-11",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Doctors & Hospital",
+    "status": "pending",
+    "submittedDate": "2026-08-11",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

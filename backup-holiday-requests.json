@@ -7964,5 +7964,35 @@
     "submittedDate": "2026-08-11",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 475,
+    "employeeId": 40,
+    "employeeName": "Ian Pollock",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-08-12",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 476,
+    "employeeId": 40,
+    "employeeName": "Ian Pollock",
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-21",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-08-12",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

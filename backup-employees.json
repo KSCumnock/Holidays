@@ -147,7 +147,7 @@
     "id": 33,
     "name": "Jamie McGinn",
     "totalAllowance": 37,
-    "usedDays": 28,
+    "usedDays": 29,
     "includeSaturdayDeduction": false,
     "toilEarned": 7,
     "toilHistory": [
@@ -239,7 +239,7 @@
     "id": 52,
     "name": "Simon Boyle",
     "totalAllowance": 20,
-    "usedDays": 15,
+    "usedDays": 15.5,
     "includeSaturdayDeduction": false
   },
   {

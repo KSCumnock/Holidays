@@ -7960,10 +7960,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "Doctors & Hospital",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-08-11",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-08-13",
+    "approvedBy": "Aimee Kennedy"
   },
   {
     "id": 475,
@@ -7992,6 +7994,38 @@
     "reason": "",
     "status": "pending",
     "submittedDate": "2026-08-12",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 477,
+    "employeeId": 52,
+    "employeeName": "Simon Boyle",
+    "startDate": "2026-08-13",
+    "endDate": "2026-08-13",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-08-13",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-08-13",
+    "approvedBy": "Aimee Kennedy"
+  },
+  {
+    "id": 478,
+    "employeeId": 6,
+    "employeeName": "Billy Mathieson",
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-25",
+    "days": 5,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-08-13",
     "requestType": "holiday",
     "deductFromHoliday": true
   }

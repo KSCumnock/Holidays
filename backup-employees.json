@@ -105,7 +105,7 @@
     "id": 35,
     "name": "Donna McClure",
     "totalAllowance": 30,
-    "usedDays": 18.5,
+    "usedDays": 19,
     "includeSaturdayDeduction": false
   },
   {
@@ -133,7 +133,7 @@
     "id": 11,
     "name": "Harrison Hannah",
     "totalAllowance": 30,
-    "usedDays": 13,
+    "usedDays": 13.5,
     "includeSaturdayDeduction": false
   },
   {

@@ -8062,5 +8062,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-08-14",
     "approvedBy": "Nicola Devlin"
+  },
+  {
+    "id": 481,
+    "employeeId": 22,
+    "employeeName": "David Cox",
+    "startDate": "2026-08-21",
+    "endDate": "2026-08-21",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-08-17",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

@@ -8224,5 +8224,22 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-08-20",
     "approvedBy": "Donna"
+  },
+  {
+    "id": 490,
+    "employeeId": 26,
+    "employeeName": "Scott Walker",
+    "startDate": "2026-12-28",
+    "endDate": "2026-08-31",
+    "days": 0,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Me & David take turn about for being off between Christmas & New Year.\nIt's my turn this year. David was off last year.",
+    "status": "cancelled",
+    "submittedDate": "2026-08-20",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "cancelledDate": "2026-08-20",
+    "cancelledBy": "MISTAKE"
   }
 ]

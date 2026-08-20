@@ -42,7 +42,7 @@
     "id": 51,
     "name": "Chris Allardyce",
     "totalAllowance": 30,
-    "usedDays": 19,
+    "usedDays": 21,
     "includeSaturdayDeduction": false
   },
   {
@@ -105,7 +105,7 @@
     "id": 35,
     "name": "Donna McClure",
     "totalAllowance": 30,
-    "usedDays": 20,
+    "usedDays": 21,
     "includeSaturdayDeduction": false
   },
   {
@@ -133,7 +133,7 @@
     "id": 11,
     "name": "Harrison Hannah",
     "totalAllowance": 30,
-    "usedDays": 13.5,
+    "usedDays": 14,
     "includeSaturdayDeduction": false
   },
   {
@@ -232,7 +232,7 @@
     "id": 37,
     "name": "Sharleen Hamilton",
     "totalAllowance": 24,
-    "usedDays": 12,
+    "usedDays": 13,
     "includeSaturdayDeduction": false
   },
   {

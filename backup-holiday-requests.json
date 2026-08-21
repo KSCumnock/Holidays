@@ -8309,5 +8309,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-08-21",
     "approvedBy": "Donna"
+  },
+  {
+    "id": 495,
+    "employeeId": 44,
+    "employeeName": "Nicola Devlin",
+    "startDate": "2027-04-16",
+    "endDate": "2027-04-19",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-08-21",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

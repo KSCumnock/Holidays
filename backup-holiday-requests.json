@@ -8326,5 +8326,22 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-08-22",
     "approvedBy": "Sean Kelly"
+  },
+  {
+    "id": 496,
+    "employeeId": 46,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2026-09-01",
+    "endDate": "2026-09-01",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-08-24",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-08-24",
+    "approvedBy": "Stephen Armour"
   }
 ]

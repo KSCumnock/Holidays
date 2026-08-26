@@ -8439,5 +8439,22 @@
     "submittedDate": "2026-08-25",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 503,
+    "employeeId": 34,
+    "employeeName": "Codie Bottell",
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-26",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "sick",
+    "status": "approved",
+    "submittedDate": "2026-08-26",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedDate": "2026-08-26",
+    "approvedBy": "Karen Kelly"
   }
 ]

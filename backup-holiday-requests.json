@@ -8464,5 +8464,20 @@
     "deductFromHoliday": false,
     "approvedDate": "2026-08-26",
     "approvedBy": "Karen Kelly"
+  },
+  {
+    "id": 504,
+    "employeeId": 47,
+    "employeeName": "Tommy Samson",
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-10",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-08-28",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

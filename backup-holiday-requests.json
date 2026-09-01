@@ -8509,10 +8509,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-08-31",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-09-01",
+    "approvedBy": "Donna"
   },
   {
     "id": 507,
@@ -8524,8 +8526,42 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-08-31",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-09-01",
+    "approvedBy": "Donna"
+  },
+  {
+    "id": 508,
+    "employeeId": 41,
+    "employeeName": "Gayle Todd",
+    "startDate": "2026-10-30",
+    "endDate": "2026-10-30",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-09-01",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-09-01",
+    "approvedBy": "Donna"
+  },
+  {
+    "id": 509,
+    "employeeId": 15,
+    "employeeName": "Steven Guthrie",
+    "startDate": "2027-05-06",
+    "endDate": "2027-05-13",
+    "days": 6,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-09-01",
     "requestType": "holiday",
     "deductFromHoliday": true
   }

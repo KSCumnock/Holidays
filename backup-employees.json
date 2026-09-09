@@ -42,7 +42,7 @@
     "id": 51,
     "name": "Chris Allardyce",
     "totalAllowance": 30,
-    "usedDays": 21,
+    "usedDays": 22,
     "includeSaturdayDeduction": false
   },
   {
@@ -239,7 +239,7 @@
     "id": 52,
     "name": "Simon Boyle",
     "totalAllowance": 20,
-    "usedDays": 15.5,
+    "usedDays": 16,
     "includeSaturdayDeduction": false
   },
   {

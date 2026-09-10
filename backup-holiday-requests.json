@@ -8898,5 +8898,35 @@
     "submittedDate": "2026-09-09",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 530,
+    "employeeId": 22,
+    "employeeName": "David Cox",
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-06",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-09-10",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 531,
+    "employeeId": 34,
+    "employeeName": "Codie Bottell",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-14",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "HOLIDAY",
+    "status": "pending",
+    "submittedDate": "2026-09-10",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

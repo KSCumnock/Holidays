@@ -25,5 +25,14 @@
     "reason": "Carry forward from 2025",
     "grantedBy": "Sean Kelly",
     "grantedDate": "2026-07-22"
+  },
+  {
+    "id": "toil-1789115736172-4",
+    "employeeId": 4,
+    "dateWorked": "2026-09-05",
+    "days": 4,
+    "reason": "New contract",
+    "grantedBy": "Sean Kelly",
+    "grantedDate": "2026-09-11"
   }
 ]

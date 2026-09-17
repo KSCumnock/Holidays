@@ -147,7 +147,7 @@
     "id": 33,
     "name": "Jamie McGinn",
     "totalAllowance": 37,
-    "usedDays": 29,
+    "usedDays": 30,
     "includeSaturdayDeduction": false,
     "toilEarned": 7,
     "toilHistory": [
@@ -190,7 +190,7 @@
     "id": 17,
     "name": "Luke McGhee",
     "totalAllowance": 30,
-    "usedDays": 23,
+    "usedDays": 23.5,
     "includeSaturdayDeduction": false
   },
   {

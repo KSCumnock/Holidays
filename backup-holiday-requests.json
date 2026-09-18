@@ -9157,5 +9157,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-09-18",
     "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 545,
+    "employeeId": 34,
+    "employeeName": "Codie Bottell",
+    "startDate": "2026-10-30",
+    "endDate": "2026-11-02",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-09-18",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

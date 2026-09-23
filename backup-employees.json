@@ -219,6 +219,13 @@
     "includeSaturdayDeduction": false
   },
   {
+    "id": 56,
+    "name": "Ross Logan",
+    "totalAllowance": 10,
+    "usedDays": 0.5,
+    "includeSaturdayDeduction": false
+  },
+  {
     "id": 9,
     "name": "Scott Graham",
     "totalAllowance": 30,

@@ -9355,5 +9355,39 @@
     "deductFromHoliday": false,
     "approvedDate": "2026-09-22",
     "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 555,
+    "employeeId": 12,
+    "employeeName": "Finlay Campbell",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-23",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-09-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-09-23",
+    "approvedBy": "Karen Kelly"
+  },
+  {
+    "id": 556,
+    "employeeId": 46,
+    "employeeName": "Aimee Kennedy",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-09-23",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-09-23",
+    "approvedBy": "Stephen Armour"
   }
 ]

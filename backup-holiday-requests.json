@@ -9657,5 +9657,20 @@
     "deductFromHoliday": false,
     "approvedDate": "2026-10-01",
     "approvedBy": "Karen Kelly"
+  },
+  {
+    "id": 573,
+    "employeeId": 9,
+    "employeeName": "Scott Graham",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-27",
+    "days": 6,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-10-02",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

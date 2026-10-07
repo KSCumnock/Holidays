@@ -9591,10 +9591,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-09-30",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-10-07",
+    "approvedBy": "Donna"
   },
   {
     "id": 569,
@@ -9606,10 +9608,12 @@
     "isHalfDay": false,
     "halfDayPeriod": null,
     "reason": "",
-    "status": "pending",
+    "status": "approved",
     "submittedDate": "2026-09-30",
     "requestType": "holiday",
-    "deductFromHoliday": true
+    "deductFromHoliday": true,
+    "approvedDate": "2026-10-07",
+    "approvedBy": "Donna"
   },
   {
     "id": 570,
@@ -9740,5 +9744,37 @@
     "submittedDate": "2026-10-05",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 578,
+    "employeeId": 43,
+    "employeeName": "Karen Kelly",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-07",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-10-07",
+    "requestType": "holiday",
+    "deductFromHoliday": true
+  },
+  {
+    "id": 579,
+    "employeeId": 41,
+    "employeeName": "Gayle Todd",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-13",
+    "days": 2,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-10-07",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-10-07",
+    "approvedBy": "Donna"
   }
 ]

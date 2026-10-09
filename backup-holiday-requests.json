@@ -9776,5 +9776,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-10-07",
     "approvedBy": "Donna"
+  },
+  {
+    "id": 580,
+    "employeeId": 13,
+    "employeeName": "Alan Leckie",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-12",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-10-09",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

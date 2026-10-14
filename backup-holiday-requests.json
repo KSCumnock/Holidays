@@ -9925,5 +9925,20 @@
     "submittedDate": "2026-10-14",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 589,
+    "employeeId": 7,
+    "employeeName": "Chris Smith",
+    "startDate": "2026-10-30",
+    "endDate": "2026-10-30",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-10-14",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

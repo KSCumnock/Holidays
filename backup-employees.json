@@ -56,7 +56,7 @@
     "id": 34,
     "name": "Codie Bottell",
     "totalAllowance": 30,
-    "usedDays": 25,
+    "usedDays": 26,
     "includeSaturdayDeduction": false
   },
   {
@@ -119,7 +119,7 @@
     "id": 41,
     "name": "Gayle Todd",
     "totalAllowance": 30,
-    "usedDays": 25.5,
+    "usedDays": 26,
     "includeSaturdayDeduction": false
   },
   {
@@ -229,7 +229,7 @@
     "id": 9,
     "name": "Scott Graham",
     "totalAllowance": 30,
-    "usedDays": 14,
+    "usedDays": 20.5,
     "includeSaturdayDeduction": false
   },
   {

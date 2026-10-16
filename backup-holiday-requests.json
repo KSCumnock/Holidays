@@ -10008,5 +10008,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-10-15",
     "approvedBy": "Donna"
+  },
+  {
+    "id": 594,
+    "employeeId": 11,
+    "employeeName": "Harrison Hannah",
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-04",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-10-16",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

@@ -98,7 +98,7 @@
     "id": 27,
     "name": "David Young",
     "totalAllowance": 30,
-    "usedDays": 25,
+    "usedDays": 30,
     "includeSaturdayDeduction": false
   },
   {
@@ -222,7 +222,7 @@
     "id": 56,
     "name": "Ross Logan",
     "totalAllowance": 10,
-    "usedDays": 2.5,
+    "usedDays": 6.5,
     "includeSaturdayDeduction": false
   },
   {
@@ -257,7 +257,7 @@
     "id": 52,
     "name": "Simon Boyle",
     "totalAllowance": 20,
-    "usedDays": 17,
+    "usedDays": 17.5,
     "includeSaturdayDeduction": false
   },
   {

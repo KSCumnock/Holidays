@@ -10381,5 +10381,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-10-29",
     "approvedBy": "Karen Kelly"
+  },
+  {
+    "id": 615,
+    "employeeId": 26,
+    "employeeName": "Scott Walker",
+    "startDate": "2026-12-24",
+    "endDate": "2026-12-24",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-10-29",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

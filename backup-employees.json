@@ -172,7 +172,7 @@
     "id": 43,
     "name": "Karen Kelly",
     "totalAllowance": 31,
-    "usedDays": 26.5,
+    "usedDays": 32.5,
     "includeSaturdayDeduction": false,
     "toilEarned": 1,
     "toilHistory": [
@@ -243,7 +243,7 @@
     "id": 42,
     "name": "Sean Kelly",
     "totalAllowance": 30,
-    "usedDays": 27,
+    "usedDays": 33,
     "includeSaturdayDeduction": false
   },
   {
@@ -271,7 +271,7 @@
     "id": 15,
     "name": "Steven Guthrie",
     "totalAllowance": 30,
-    "usedDays": 49,
+    "usedDays": 50,
     "includeSaturdayDeduction": false
   },
   {

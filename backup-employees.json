@@ -3,7 +3,7 @@
     "id": 46,
     "name": "Aimee Kennedy",
     "totalAllowance": 31,
-    "usedDays": 31,
+    "usedDays": 36,
     "includeSaturdayDeduction": false,
     "toilEarned": 1,
     "toilHistory": [
@@ -21,7 +21,7 @@
     "id": 13,
     "name": "Alan Leckie",
     "totalAllowance": 30,
-    "usedDays": 20,
+    "usedDays": 26,
     "includeSaturdayDeduction": false
   },
   {
@@ -91,28 +91,28 @@
     "id": 22,
     "name": "David Cox",
     "totalAllowance": 30,
-    "usedDays": 24.5,
+    "usedDays": 23.5,
     "includeSaturdayDeduction": false
   },
   {
     "id": 27,
     "name": "David Young",
     "totalAllowance": 30,
-    "usedDays": 30,
+    "usedDays": 35,
     "includeSaturdayDeduction": false
   },
   {
     "id": 35,
     "name": "Donna McClure",
     "totalAllowance": 30,
-    "usedDays": 22,
+    "usedDays": 28,
     "includeSaturdayDeduction": false
   },
   {
     "id": 12,
     "name": "Finlay Campbell",
     "totalAllowance": 30,
-    "usedDays": 20.5,
+    "usedDays": 21.5,
     "includeSaturdayDeduction": false
   },
   {
@@ -215,7 +215,7 @@
     "id": 44,
     "name": "Nicola Devlin",
     "totalAllowance": 30,
-    "usedDays": 30,
+    "usedDays": 34,
     "includeSaturdayDeduction": false
   },
   {
@@ -236,7 +236,7 @@
     "id": 26,
     "name": "Scott Walker",
     "totalAllowance": 30,
-    "usedDays": 38,
+    "usedDays": 39,
     "includeSaturdayDeduction": false
   },
   {

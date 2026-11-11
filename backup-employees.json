@@ -190,7 +190,7 @@
     "id": 17,
     "name": "Luke McGhee",
     "totalAllowance": 30,
-    "usedDays": 24.5,
+    "usedDays": 30,
     "includeSaturdayDeduction": false
   },
   {
@@ -222,7 +222,7 @@
     "id": 56,
     "name": "Ross Logan",
     "totalAllowance": 10,
-    "usedDays": 8,
+    "usedDays": 9,
     "includeSaturdayDeduction": false
   },
   {

@@ -10959,5 +10959,20 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-11-11",
     "approvedBy": "Aimee K"
+  },
+  {
+    "id": 648,
+    "employeeId": 26,
+    "employeeName": "Scott Walker",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-11-12",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

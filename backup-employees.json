@@ -222,7 +222,7 @@
     "id": 56,
     "name": "Ross Logan",
     "totalAllowance": 10,
-    "usedDays": 9,
+    "usedDays": 10,
     "includeSaturdayDeduction": false
   },
   {
@@ -264,7 +264,7 @@
     "id": 45,
     "name": "Stephen Armour",
     "totalAllowance": 30,
-    "usedDays": 37,
+    "usedDays": 42,
     "includeSaturdayDeduction": false
   },
   {

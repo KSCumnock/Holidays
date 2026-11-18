@@ -49,7 +49,7 @@
     "id": 7,
     "name": "Chris Smith",
     "totalAllowance": 30,
-    "usedDays": 29,
+    "usedDays": 30,
     "includeSaturdayDeduction": false
   },
   {
@@ -257,7 +257,7 @@
     "id": 52,
     "name": "Simon Boyle",
     "totalAllowance": 20,
-    "usedDays": 18.5,
+    "usedDays": 19,
     "includeSaturdayDeduction": false
   },
   {

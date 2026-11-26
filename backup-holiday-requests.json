@@ -11608,5 +11608,20 @@
     "deductFromHoliday": false,
     "approvedDate": "2026-11-26",
     "approvedBy": "Stephen Armour"
+  },
+  {
+    "id": 687,
+    "employeeId": 37,
+    "employeeName": "Sharleen Hamilton",
+    "startDate": "2027-01-04",
+    "endDate": "2027-01-04",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "",
+    "status": "pending",
+    "submittedDate": "2026-11-26",
+    "requestType": "holiday",
+    "deductFromHoliday": true
   }
 ]

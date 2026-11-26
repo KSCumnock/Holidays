@@ -11591,5 +11591,22 @@
     "deductFromHoliday": true,
     "approvedDate": "2026-11-25",
     "approvedBy": "Donna"
+  },
+  {
+    "id": 686,
+    "employeeId": 56,
+    "employeeName": "Ross Logan",
+    "startDate": "2026-11-26",
+    "endDate": "2026-11-26",
+    "days": 1,
+    "isHalfDay": false,
+    "halfDayPeriod": null,
+    "reason": "Still not feeling well",
+    "status": "approved",
+    "submittedDate": "2026-11-26",
+    "requestType": "sick",
+    "deductFromHoliday": false,
+    "approvedDate": "2026-11-26",
+    "approvedBy": "Stephen Armour"
   }
 ]

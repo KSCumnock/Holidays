@@ -11623,5 +11623,22 @@
     "submittedDate": "2026-11-26",
     "requestType": "holiday",
     "deductFromHoliday": true
+  },
+  {
+    "id": 688,
+    "employeeId": 52,
+    "employeeName": "Simon Boyle",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-27",
+    "days": 0.5,
+    "isHalfDay": true,
+    "halfDayPeriod": "afternoon",
+    "reason": "",
+    "status": "approved",
+    "submittedDate": "2026-11-27",
+    "requestType": "holiday",
+    "deductFromHoliday": true,
+    "approvedDate": "2026-11-27",
+    "approvedBy": "Aimee K"
   }
 ]
